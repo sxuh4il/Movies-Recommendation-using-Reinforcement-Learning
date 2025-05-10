@@ -1,0 +1,71 @@
+userId,movieId,title,score_Q
+68,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),0.677
+177,457,"Fugitive, The (1993)",1.292
+177,590,Dances with Wolves (1990),1.188
+177,2762,"Sixth Sense, The (1999)",0.726
+177,165,Die Hard: With a Vengeance (1995),0.718
+177,589,Terminator 2: Judgment Day (1991),0.695
+182,595,Beauty and the Beast (1991),5.165
+182,344,Ace Ventura: Pet Detective (1994),0.0
+182,364,"Lion King, The (1994)",0.0
+182,367,"Mask, The (1994)",0.0
+182,500,Mrs. Doubtfire (1993),0.0
+232,608,Fargo (1996),1.133
+232,50,"Usual Suspects, The (1995)",0.705
+232,344,Ace Ventura: Pet Detective (1994),0.596
+232,590,Dances with Wolves (1990),0.462
+232,592,Batman (1989),0.37
+249,590,Dances with Wolves (1990),0.538
+249,165,Die Hard: With a Vengeance (1995),0.0
+249,592,Batman (1989),0.0
+274,150,Apollo 13 (1995),0.0
+288,858,"Godfather, The (1972)",0.726
+288,50,"Usual Suspects, The (1995)",0.415
+288,165,Die Hard: With a Vengeance (1995),0.0
+288,2858,American Beauty (1999),0.0
+298,2762,"Sixth Sense, The (1999)",0.662
+298,457,"Fugitive, The (1993)",0.655
+298,595,Beauty and the Beast (1991),0.648
+298,364,"Lion King, The (1994)",0.322
+298,588,Aladdin (1992),0.215
+307,2028,Saving Private Ryan (1998),0.197
+307,380,True Lies (1994),0.0
+318,1,Toy Story (1995),4.951
+318,380,True Lies (1994),1.816
+318,1214,Alien (1979),0.979
+318,2959,Fight Club (1999),0.763
+318,589,Terminator 2: Judgment Day (1991),0.671
+380,150,Apollo 13 (1995),0.936
+380,2858,American Beauty (1999),0.752
+380,527,Schindler's List (1993),0.0
+380,590,Dances with Wolves (1990),0.0
+387,457,"Fugitive, The (1993)",1.21
+387,58559,"Dark Knight, The (2008)",1.204
+387,377,Speed (1994),0.624
+387,150,Apollo 13 (1995),0.573
+387,4306,Shrek (2001),0.347
+448,2028,Saving Private Ryan (1998),0.614
+448,318,"Shawshank Redemption, The (1994)",0.613
+448,595,Beauty and the Beast (1991),0.582
+448,588,Aladdin (1992),0.403
+448,110,Braveheart (1995),0.384
+474,165,Die Hard: With a Vengeance (1995),0.628
+474,58559,"Dark Knight, The (2008)",0.0
+480,58559,"Dark Knight, The (2008)",0.596
+599,527,Schindler's List (1993),0.722
+599,590,Dances with Wolves (1990),0.0
+603,780,Independence Day (a.k.a. ID4) (1996),1.195
+603,589,Terminator 2: Judgment Day (1991),0.691
+603,318,"Shawshank Redemption, The (1994)",0.681
+603,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",0.635
+603,150,Apollo 13 (1995),0.591
+606,380,True Lies (1994),1.411
+606,608,Fargo (1996),0.954
+606,377,Speed (1994),0.701
+606,595,Beauty and the Beast (1991),0.072
+606,150,Apollo 13 (1995),0.0
+610,500,Mrs. Doubtfire (1993),1.288
+610,648,Mission: Impossible (1996),1.124
+610,588,Aladdin (1992),1.071
+610,595,Beauty and the Beast (1991),0.619
+610,590,Dances with Wolves (1990),0.547
