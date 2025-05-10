@@ -1,0 +1,3051 @@
+userId,movieId,title,Q_value
+1,170937,Win It All (2017),1.194
+1,5581,Betsy's Wedding (1990),0.2577
+1,59727,"Strangers, The (2008)",0.2424
+1,169982,Power Rangers (2017),0.2347
+1,184257,Making a Murderer (2015),0.2188
+2,1,Toy Story (1995),1.0337
+2,3394,Blind Date (1987),0.2607
+2,64983,Valkyrie (2008),0.2555
+2,90249,Real Steel (2011),0.2358
+2,3011,"They Shoot Horses, Don't They? (1969)",0.2354
+3,1,Toy Story (1995),1.3472
+3,91535,"Bourne Legacy, The (2012)",0.2481
+3,255,"Jerky Boys, The (1995)",0.2262
+3,151455,Eddie the Eagle (2016),0.1879
+3,6078,Firefox (1982),0.1783
+4,1,Toy Story (1995),2.6567
+4,102800,Frances Ha (2012),0.5181
+4,80162,"Horde, The (La Horde) (2009)",0.4929
+4,58826,"Shepherd: Border Patrol, The (2008)",0.458
+4,3811,Breaker Morant (1980),0.456
+5,156607,The Huntsman Winter's War (2016),1.8018
+5,5523,"Adventures of Pluto Nash, The (2002)",1.4451
+5,80162,"Horde, The (La Horde) (2009)",1.3448
+5,42761,Casper Meets Wendy (1998),1.3293
+5,47970,"Last Kiss, The (2006)",1.1177
+6,1,Toy Story (1995),2.4591
+6,1490,B*A*P*S (1997),0.5999
+6,48649,Chapayev (1934),0.5582
+6,1128,"Fog, The (1980)",0.5436
+6,6886,Beyond Borders (2003),0.4354
+7,5346,Wild Orchid (1990),1.8447
+7,6429,Winchester '73 (1950),1.5779
+7,8578,Undead (2003),1.4505
+7,1642,Indian Summer (a.k.a. Alive & Kicking) (1996),1.4263
+7,154358,The Barkley Marathons: The Race That Eats Its Young (2015),1.3617
+8,1,Toy Story (1995),2.9702
+8,4153,Down to Earth (2001),0.5385
+8,93766,Wrath of the Titans (2012),0.5291
+8,4419,All That Heaven Allows (1955),0.4736
+8,8376,Napoleon Dynamite (2004),0.4672
+9,1,Toy Story (1995),2.7449
+9,1484,"Daytrippers, The (1996)",0.6547
+9,3097,"Shop Around the Corner, The (1940)",0.5026
+9,1140,Entertaining Angels: The Dorothy Day Story (1996),0.4991
+9,8008,Brigadoon (1954),0.4956
+10,169180,American Fable (2017),0.3307
+10,58783,Youth Without Youth (2007),0.1038
+10,4736,Summer Catch (2001),0.0961
+10,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),0.0944
+10,1235,Harold and Maude (1971),0.0943
+11,44004,Failure to Launch (2006),0.8381
+11,3735,Serpico (1973),0.2165
+11,7368,Never Die Alone (2004),0.2047
+11,1985,Halloween 4: The Return of Michael Myers (1988),0.1823
+11,7312,"Follow Me, Boys! (1966)",0.1539
+12,1,Toy Story (1995),1.5472
+12,8964,Callas Forever (2002),0.4188
+12,3974,"Little Vampire, The (2000)",0.404
+12,1105,Children of the Corn IV: The Gathering (1996),0.3957
+12,3855,"Affair of Love, An (Liaison pornographique, Une) (1999)",0.3916
+13,1,Toy Story (1995),1.9927
+13,3096,My Man Godfrey (1957),0.3889
+13,63,Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996),0.388
+13,3743,Boys and Girls (2000),0.3811
+13,8424,"Divorcee, The (1930)",0.3682
+14,1,Toy Story (1995),1.7313
+14,59118,Happy-Go-Lucky (2008),0.394
+14,141513,Fort Tilden (2014),0.3746
+14,70492,Winds of the Wasteland (1936),0.3577
+14,3524,Arthur (1981),0.3358
+15,131934,The Malibu Bikini Shop (1986),0.7013
+15,2287,Them! (1954),0.5295
+15,3852,"Tao of Steve, The (2000)",0.5089
+15,33880,Me and You and Everyone We Know (2005),0.5004
+15,7149,Something's Gotta Give (2003),0.4897
+16,1,Toy Story (1995),2.8677
+16,5867,Thief (1981),0.5232
+16,5989,Catch Me If You Can (2002),0.5225
+16,73321,"Book of Eli, The (2010)",0.5158
+16,1985,Halloween 4: The Return of Michael Myers (1988),0.5108
+17,26133,"Charlie Brown Christmas, A (1965)",1.0788
+17,3898,Bait (2000),0.3106
+17,101765,"Perfect Plan, A (Plan parfait, Un) (2012)",0.2452
+17,73431,"Maiden Heist, The (2009)",0.2327
+17,2183,"Man Who Knew Too Much, The (1956)",0.231
+18,949,East of Eden (1955),1.5754
+18,1357,Shine (1996),1.4947
+18,7228,Cool World (1992),1.4748
+18,99117,This Is 40 (2012),1.4487
+18,100302,Upside Down (2012),1.31
+19,5632,Bloody Sunday (2002),1.9225
+19,172589,Winter in Prostokvashino (1984),1.7173
+19,4660,Scenes from the Class Struggle in Beverly Hills (1989),1.6357
+19,157312,The Boss (2016),1.6248
+19,6884,Veronica Guerin (2003),1.5725
+20,1,Toy Story (1995),4.8263
+20,4602,Harlem Nights (1989),1.2604
+20,54736,"Kingdom, The (2007)",1.0207
+20,7114,"Collector, The (1965)",0.992
+20,7263,Miracle (2004),0.9613
+21,4535,"Man from Snowy River, The (1982)",0.8111
+21,84952,Confessions (Kokuhaku) (2010),0.2513
+21,1406,La Cérémonie (1995),0.2357
+21,47646,Idlewild (2006),0.2336
+21,3095,"Grapes of Wrath, The (1940)",0.2127
+22,1,Toy Story (1995),2.3467
+22,93610,Space Battleship Yamato (2010),0.6033
+22,1267,"Manchurian Candidate, The (1962)",0.5042
+22,111817,Jimi: All Is by My Side (2013),0.4964
+22,6235,Europa Europa (Hitlerjunge Salomon) (1990),0.4743
+23,46574,"OH in Ohio, The (2006)",0.7087
+23,7366,Jersey Girl (2004),0.2112
+23,102445,Star Trek Into Darkness (2013),0.1617
+23,3067,Women on the Verge of a Nervous Breakdown (Mujeres al borde de un ataque de nervios) (1988),0.1455
+23,7073,"Shot in the Dark, A (1964)",0.1448
+24,1,Toy Story (1995),2.1369
+24,4500,Drowning by Numbers (1988),0.5007
+24,80834,Sintel (2010),0.4881
+24,674,Barbarella (1968),0.4825
+24,35957,Red Eye (2005),0.4803
+25,1,Toy Story (1995),2.1185
+25,2014,Freaky Friday (1977),0.5119
+25,79897,Get Low (2009),0.474
+25,3571,Time Code (2000),0.4609
+25,3041,Meatballs Part II (1984),0.4535
+26,3692,Class of Nuke 'Em High (1986),0.7119
+26,183911,The Clapper (2018),0.1837
+26,88125,Harry Potter and the Deathly Hallows: Part 2 (2011),0.1775
+26,7091,Horse Feathers (1932),0.1731
+26,608,Fargo (1996),0.17
+27,51091,Black Snake Moan (2006),2.7415
+27,185473,Blockers (2018),2.4247
+27,4061,The Man in the Moon (1991),1.6955
+27,5049,48 Hrs. (1982),1.6898
+27,1300,My Life as a Dog (Mitt liv som hund) (1985),1.6591
+28,1,Toy Story (1995),1.2246
+28,6654,Atragon (Kaitei Gunkan) (1963),0.3072
+28,149508,Spellbound (2011),0.2815
+28,60514,Journey to the Center of the Earth (2008),0.281
+28,129514,George Carlin: It's Bad for Ya! (2008),0.2706
+29,1,Toy Story (1995),1.6027
+29,8461,Dragon Seed (1944),0.3727
+29,117590,Horrible Bosses 2 (2014),0.2927
+29,71282,"Food, Inc. (2008)",0.2831
+29,6898,Sweet Sixteen (2002),0.2797
+30,1,Toy Story (1995),2.8052
+30,4800,King Solomon's Mines (1937),0.4908
+30,33646,"Longest Yard, The (2005)",0.4697
+30,44511,Unknown White Male (2005),0.4486
+30,2119,Maximum Overdrive (1986),0.4366
+31,7261,Barbershop 2: Back in Business (2004),1.477
+31,141816,12 Chairs (1976),0.3423
+31,64575,Doubt (2008),0.3301
+31,7826,"Secret Life of Walter Mitty, The (1947)",0.2729
+31,25825,Fury (1936),0.2724
+32,8869,First Daughter (2004),1.4869
+32,174403,The Putin Interviews (2017),1.4625
+32,31221,Elektra (2005),1.4204
+32,97870,"Sessions, The (Surrogate, The) (2012)",1.4064
+32,53326,Them (Ils) (2006),1.3562
+33,119167,Paradox (2010),1.3428
+33,2119,Maximum Overdrive (1986),1.299
+33,27592,Sympathy for Mr. Vengeance (Boksuneun naui geot) (2002),1.287
+33,417,Barcelona (1994),1.2807
+33,2394,"Prince of Egypt, The (1998)",1.2674
+34,1,Toy Story (1995),2.3057
+34,172637,Priklyucheniya Kapitana Vrungelya (1979),0.699
+34,1526,Fathers' Day (1997),0.4982
+34,95508,Cleanskin (2012),0.4852
+34,1564,For Roseanna (Roseanna's Grave) (1997),0.4747
+35,1,Toy Story (1995),3.4425
+35,159,Clockers (1995),0.6078
+35,177939,"The Night Is Short, Walk on Girl (2017)",0.599
+35,3364,"Asphalt Jungle, The (1950)",0.5948
+35,77881,Lovers & Leavers (Kuutamolla) (2002),0.5623
+36,1,Toy Story (1995),1.5564
+36,55110,December Boys (2007),0.3625
+36,128360,The Hateful Eight (2015),0.3233
+36,1493,Love and Other Catastrophes (1996),0.3176
+36,2693,Trekkies (1997),0.3006
+37,2103,Tall Tale (1995),1.3404
+37,160440,The Maid's Room (2014),0.3696
+37,2002,Lethal Weapon 3 (1992),0.3626
+37,5682,"Grey Zone, The (2001)",0.3557
+37,134252,That Munchhausen (1979),0.3429
+38,1,Toy Story (1995),2.6295
+38,3396,"Muppet Movie, The (1979)",0.5944
+38,5283,National Lampoon's Van Wilder (2002),0.5876
+38,6234,Equus (1977),0.5755
+38,893,Mother Night (1996),0.564
+39,1,Toy Story (1995),3.557
+39,85788,Insidious (2010),0.7972
+39,5255,Sorority Boys (2002),0.7319
+39,353,"Crow, The (1994)",0.7141
+39,1793,Welcome to Woop-Woop (1997),0.6925
+40,136786,Careful What You Wish For (2015),0.6784
+40,69644,Ice Age: Dawn of the Dinosaurs (2009),0.1728
+40,7587,"Samouraï, Le (Godson, The) (1967)",0.1517
+40,100163,Hansel & Gretel: Witch Hunters (2013),0.1267
+40,250,Heavyweights (Heavy Weights) (1995),0.1202
+41,1,Toy Story (1995),2.2315
+41,4117,Hope and Glory (1987),0.4494
+41,122900,Ant-Man (2015),0.4432
+41,26422,Hair (1979),0.4346
+41,6187,"Life of David Gale, The (2003)",0.433
+42,1,Toy Story (1995),2.1333
+42,1224,Henry V (1989),0.5926
+42,867,Carpool (1996),0.489
+42,3331,My Tutor (1983),0.4664
+42,3134,Grand Illusion (La grande illusion) (1937),0.4621
+43,64620,Frost/Nixon (2008),1.8983
+43,115502,"Rewrite, The (2014)",1.774
+43,94799,Sound of My Voice (2011),1.7573
+43,6662,"Pink Panther, The (1963)",1.7322
+43,32666,National Lampoon's Lady Killers (National Lampoon's Gold Diggers) (2003),1.7138
+44,3997,Dungeons & Dragons (2000),3.8362
+44,6086,"I, the Jury (1982)",0.8434
+44,537,Sirens (1994),0.7878
+44,58309,War Dance (2007),0.7524
+44,5214,"Oh, God! (1977)",0.7216
+45,1247,"Graduate, The (1967)",1.6934
+45,104925,"Family, The (2013)",1.6376
+45,1734,My Life in Pink (Ma vie en rose) (1997),1.5902
+45,5573,Stealing Harvard (2002),1.5793
+45,58655,Drillbit Taylor (2008),1.558
+46,4035,"Claim, The (2000)",1.5995
+46,1077,Sleeper (1973),1.486
+46,7328,"Passion of Anna, The (Passion, En) (1969)",1.4616
+46,2153,"Avengers, The (1998)",1.4482
+46,558,"Pagemaster, The (1994)",1.4424
+47,1,Toy Story (1995),1.1704
+47,7650,"Witchfinder General (Conquerer Worm, The) (1968)",0.2332
+47,50912,"Paris, I Love You (Paris, je t'aime) (2006)",0.1963
+47,107013,"Christmas Carol, A (1977)",0.1943
+47,31698,Son of the Mask (2005),0.1885
+48,1,Toy Story (1995),2.2341
+48,4356,Gentlemen Prefer Blondes (1953),0.4878
+48,175693,Rick and Morty: State of Georgia Vs. Denver Fenton Allen (2016),0.4564
+48,35347,Animal Farm (1954),0.4427
+48,4149,Saving Silverman (Evil Woman) (2001),0.4266
+49,1,Toy Story (1995),2.1703
+49,4396,"Cannonball Run, The (1981)",0.5099
+49,164179,Arrival (2016),0.4853
+49,145994,Formula of Love (1984),0.4815
+49,110771,"Other Woman, The (2014)",0.479
+50,54962,"Nines, The (2007)",2.119
+50,4911,Jabberwocky (1977),0.4218
+50,93988,North & South (2004),0.4111
+50,8492,"Christmas Carol, A (Scrooge) (1951)",0.3773
+50,86898,"Tree of Life, The (2011)",0.3594
+51,1,Toy Story (1995),3.2468
+51,2882,Jakob the Liar (1999),0.6929
+51,3097,"Shop Around the Corner, The (1940)",0.6733
+51,8169,*batteries not included (1987),0.6282
+51,103027,Much Ado About Nothing (2012),0.6106
+52,1,Toy Story (1995),2.0112
+52,71867,"Misfortunates, The (De helaasheid der dingen) (2009)",0.5306
+52,3985,"Eagle Has Landed, The (1976)",0.456
+52,67534,Big Stan (2007),0.444
+52,6119,Santa Claus Is a Stinker (Le Père Noël est une ordure) (1982),0.4323
+53,1,Toy Story (1995),1.3728
+53,7125,Spring Forward (1999),0.392
+53,1573,Face/Off (1997),0.3654
+53,8987,Bush's Brain (2004),0.3529
+53,5127,Dragonfly (2002),0.3054
+54,179709,Wonder Wheel (2017),1.4992
+54,60735,Shotgun Stories (2007),1.4861
+54,46578,Little Miss Sunshine (2006),1.479
+54,8807,Harold and Kumar Go to White Castle (2004),1.4695
+54,6710,Dummy (2002),1.4524
+55,8875,"Come Back, Little Sheba (1952)",1.3483
+55,68194,"Damned United, The (2009)",0.2603
+55,97836,Here Comes the Boom (2012),0.2592
+55,173963,Empties (2007),0.2531
+55,6899,Alien from L.A. (1988),0.2256
+56,1,Toy Story (1995),2.0188
+56,57326,In the Name of the King: A Dungeon Siege Tale (2008),0.4113
+56,5109,Return to Never Land (2002),0.4095
+56,6327,"Decade Under the Influence, A (2003)",0.4061
+56,2739,"Color Purple, The (1985)",0.3943
+57,135536,Suicide Squad (2016),1.6431
+57,26887,"Langoliers, The (1995)",1.5755
+57,2655,Howling II: Your Sister Is a Werewolf (1985),1.4962
+57,1785,King of New York (1990),1.4729
+57,73858,"Dennis the Menace Christmas, A (2007)",1.3985
+58,1,Toy Story (1995),2.1923
+58,5240,Running Scared (1980),0.5856
+58,164655,Gimme Danger (2016),0.575
+58,4777,"American Astronaut, The (2001)",0.5487
+58,2190,Why Do Fools Fall In Love? (1998),0.5123
+59,1,Toy Story (1995),1.4989
+59,5562,Snipes (2001),0.335
+59,32906,"Ascent, The (Voskhozhdeniye) (1977)",0.3139
+59,60818,Hogfather (Terry Pratchett's Hogfather) (2006),0.2815
+59,1392,Citizen Ruth (1996),0.268
+60,1,Toy Story (1995),2.5569
+60,88448,Paper Birds (Pájaros de papel) (2010),0.4961
+60,49286,"Holiday, The (2006)",0.4694
+60,96520,Prime Suspect: The Lost Child (1995),0.4045
+60,2260,Wisdom (1986),0.3959
+61,1,Toy Story (1995),1.1239
+61,32294,Milk and Honey (2003),0.2811
+61,100159,Sightseers (2012),0.2366
+61,95201,To Rome with Love (2012),0.2362
+61,8410,Suddenly (1954),0.2347
+62,1,Toy Story (1995),2.4592
+62,733,"Rock, The (1996)",0.4802
+62,118894,Scooby-Doo! Abracadabra-Doo (2010),0.4675
+62,891,Halloween: The Curse of Michael Myers (Halloween 6: The Curse of Michael Myers) (1995),0.4665
+62,31553,Double Dragon (1994),0.4548
+63,6785,Seven Brides for Seven Brothers (1954),1.8875
+63,2762,"Sixth Sense, The (1999)",1.8196
+63,4009,Talk Radio (1988),1.7216
+63,26791,Shining Through (1992),1.721
+63,6565,Seabiscuit (2003),1.6356
+64,58998,Forgetting Sarah Marshall (2008),1.635
+64,7584,Woman of the Year (1942),1.6335
+64,37380,Doom (2005),1.5745
+64,30818,Beyond the Sea (2004),1.5512
+64,5404,84 Charing Cross Road (1987),1.4798
+65,1,Toy Story (1995),1.3899
+65,6385,Whale Rider (2002),0.2504
+65,2366,King Kong (1933),0.2489
+65,107945,Bad Karma (2012),0.239
+65,41569,King Kong (2005),0.2365
+66,1938,"Lost Weekend, The (1945)",1.5812
+66,170813,Baywatch (2017),1.5436
+66,60389,Battle for Haditha (2007),1.5256
+66,138632,Tokyo Tribe (2014),1.5087
+66,136511,Jeff Dunham: All Over the Map (2014),1.3491
+67,1,Toy Story (1995),2.6983
+67,2506,"Other Sister, The (1999)",0.6129
+67,5527,Possession (2002),0.6018
+67,62439,My Best Friend's Girl (2008),0.5933
+67,4621,Look Who's Talking (1989),0.585
+68,163056,Shin Godzilla (2016),2.6341
+68,3016,Creepshow (1982),0.5853
+68,6184,"Man Who Fell to Earth, The (1976)",0.5263
+68,27905,Casshern (2004),0.5096
+68,8451,Blackboard Jungle (1955),0.4925
+69,1008,"Davy Crockett, King of the Wild Frontier (1955)",0.992
+69,2383,Police Academy 6: City Under Siege (1989),0.2381
+69,149330,A Cosmic Christmas (1977),0.2182
+69,3549,Guys and Dolls (1955),0.2169
+69,84553,Pekka ja Pätkä salapoliiseina (1957),0.2121
+70,1,Toy Story (1995),1.7737
+70,5628,Wasabi (2001),0.3554
+70,2294,Antz (1998),0.3354
+70,59014,Superhero Movie (2008),0.3293
+70,91660,"Darkest Hour, The (2011)",0.3244
+71,157270,Barbershop: The Next Cut (2016),1.5566
+71,3694,"Toxic Avenger, Part II, The (1989)",1.5215
+71,3707,9 1/2 Weeks (Nine 1/2 Weeks) (1986),1.5025
+71,126090,Hedgehog in the Fog (1975),1.4853
+71,3592,"Time Masters (Maîtres du temps, Les) (1982)",1.4477
+72,1,Toy Story (1995),1.2749
+72,7121,Adam's Rib (1949),0.4034
+72,106489,"Hobbit: The Desolation of Smaug, The (2013)",0.287
+72,1754,Fallen (1998),0.2793
+72,3539,"Filth and the Fury, The (2000)",0.2654
+73,5483,"Kid Stays in the Picture, The (2002)",1.9678
+73,166528,Rogue One: A Star Wars Story (2016),1.8645
+73,2552,My Boyfriend's Back (1993),1.7895
+73,68793,Night at the Museum: Battle of the Smithsonian (2009),1.6225
+73,4541,"Serpent and the Rainbow, The (1988)",1.6003
+74,3400,We're Back! A Dinosaur's Story (1993),0.4883
+74,1604,Money Talks (1997),0.1036
+74,4135,"Monster Squad, The (1987)",0.0926
+74,32511,"Touch of Zen, A (Xia nu) (1971)",0.0918
+74,31925,Royal Flash (1975),0.0909
+75,1,Toy Story (1995),3.0464
+75,4690,"Cotton Club, The (1984)",0.6403
+75,34334,Stealth (2005),0.5162
+75,109317,Someone Marry Barry (2014),0.5126
+75,517,Rising Sun (1993),0.4825
+76,1984,Halloween III: Season of the Witch (1982),0.4518
+76,103339,White House Down (2013),0.3516
+76,7895,Bring Me the Head of Alfredo Garcia (1974),0.3343
+76,127096,Project Almanac (2015),0.3111
+76,44937,"Child, The (L'enfant) (2005)",0.3109
+77,1,Toy Story (1995),2.7573
+77,4873,Waking Life (2001),0.5278
+77,7265,"Dreamers, The (2003)",0.5171
+77,1197,"Princess Bride, The (1987)",0.491
+77,8870,"Forgotten, The (2004)",0.4906
+78,27369,Daria: Is It Fall Yet? (2000),1.9028
+78,3489,Hook (1991),1.5728
+78,1061,Sleepers (1996),1.3685
+78,6709,Once Upon a Time in Mexico (2003),1.299
+78,6545,I Capture the Castle (2003),1.2863
+79,1,Toy Story (1995),1.7185
+79,371,"Paper, The (1994)",0.3382
+79,636,Frisk (1995),0.3318
+79,1805,Wild Things (1998),0.3237
+79,90524,Abduction (2011),0.3159
+80,1,Toy Story (1995),0.6547
+80,169904,Guyver: Dark Hero (1994),0.2335
+80,5625,Moonlight Mile (2002),0.2045
+80,100527,Safe Haven (2013),0.1962
+80,54281,Charlie Bartlett (2007),0.1934
+81,1,Toy Story (1995),1.1274
+81,86487,Mildred Pierce (2011),0.2914
+81,550,Threesome (1994),0.2259
+81,2352,"Big Chill, The (1983)",0.2065
+81,60857,"Tracey Fragments, The (2007)",0.206
+82,1100,Days of Thunder (1990),0.7308
+82,3783,Croupier (1998),0.5531
+82,66511,Berlin Calling (2008),0.5225
+82,5689,Billy Bathgate (1991),0.5156
+82,140956,Ready Player One,0.5091
+83,1,Toy Story (1995),1.7365
+83,6547,Northfork (2003),0.4413
+83,1648,"House of Yes, The (1997)",0.4204
+83,6760,In This World (2002),0.4055
+83,8500,Godzilla vs. Mechagodzilla (Gojira tai Mekagojira) (1974),0.3879
+84,1,Toy Story (1995),1.9269
+84,7114,"Collector, The (1965)",0.396
+84,3143,Hell in the Pacific (1968),0.3916
+84,1051,Trees Lounge (1996),0.3865
+84,6993,Hannah and Her Sisters (1986),0.3794
+85,1,Toy Story (1995),0.6993
+85,2447,Varsity Blues (1999),0.2224
+85,4220,"Longest Yard, The (1974)",0.1694
+85,1341,Burnt Offerings (1976),0.1645
+85,112749,And So It Goes (2014),0.1552
+86,52784,Sharkwater (2006),1.8754
+86,112623,Dawn of the Planet of the Apes (2014),1.828
+86,4917,MacArthur (1977),1.7639
+86,6371,Pokémon Heroes (2003),1.6478
+86,108949,"Art of the Steal, The (2013)",1.5369
+87,67534,Big Stan (2007),1.3122
+87,2473,Soul Man (1986),0.3151
+87,162828,Imperium (2016),0.2977
+87,106491,47 Ronin (2013),0.2919
+87,7812,Babylon 5: Thirdspace (1998),0.2915
+88,1,Toy Story (1995),1.0959
+88,2612,Mildred Pierce (1945),0.2616
+88,67361,Echelon Conspiracy (2009),0.2575
+88,110591,Oculus (2013),0.2563
+88,105954,All Is Lost (2013),0.2508
+89,72696,Old Dogs (2009),1.9128
+89,1008,"Davy Crockett, King of the Wild Frontier (1955)",1.895
+89,6464,Good Burger (1997),1.8632
+89,105121,Inescapable (2012),1.749
+89,1300,My Life as a Dog (Mitt liv som hund) (1985),1.6485
+90,136018,Black Mass (2015),2.033
+90,93326,This Means War (2012),0.4702
+90,8958,Ray (2004),0.4656
+90,7316,Confessions of a Teenage Drama Queen (2004),0.4559
+90,98961,Zero Dark Thirty (2012),0.4547
+91,3947,Get Carter (1971),1.4372
+91,810,Kazaam (1996),1.384
+91,31297,Gold Diggers of 1935 (1935),1.3289
+91,128832,The Last Five Years (2014),1.3079
+91,1284,"Big Sleep, The (1946)",1.2851
+92,1,Toy Story (1995),3.6636
+92,179491,Mayhem (2017),0.8217
+92,3827,Space Cowboys (2000),0.7455
+92,49013,"Santa Clause 3: The Escape Clause, The (2006)",0.7415
+92,504,No Escape (1994),0.7411
+93,189547,Iron Soldier (2010),1.6647
+93,35347,Animal Farm (1954),1.6639
+93,5689,Billy Bathgate (1991),1.6574
+93,944,Lost Horizon (1937),1.5853
+93,823,"Collector, The (La collectionneuse) (1967)",1.5813
+94,1,Toy Story (1995),2.1781
+94,105540,"All Dogs Christmas Carol, An (1998)",0.6337
+94,52042,Black Book (Zwartboek) (2006),0.5828
+94,2871,Deliverance (1972),0.5565
+94,1958,Terms of Endearment (1983),0.5552
+95,536,"Simple Twist of Fate, A (1994)",1.2775
+95,4053,Double Take (2001),0.2736
+95,3673,Benji the Hunted (1987),0.2705
+95,5267,"Rookie, The (2002)",0.2566
+95,384,Bad Company (1995),0.2394
+96,148775,Wizards of Waverly Place: The Movie (2009),1.4301
+96,8580,Into the Woods (1991),1.422
+96,3696,Night of the Creeps (1986),1.2869
+96,1382,Marked for Death (1990),1.2861
+96,6708,Matchstick Men (2003),1.2534
+97,1,Toy Story (1995),2.0113
+97,78467,Jonah Hex (2010),0.4582
+97,134248,Hot Girls Wanted (2015),0.447
+97,2408,Cocoon: The Return (1988),0.4293
+97,3384,"Taking of Pelham One Two Three, The (1974)",0.4291
+98,25805,"Atalante, L' (1934)",1.9619
+98,96616,That's My Boy (2012),1.8912
+98,3200,"Last Detail, The (1973)",1.8
+98,134859,The Wolfpack (2015),1.685
+98,58806,Smart People (2008),1.6088
+99,1,Toy Story (1995),1.8705
+99,85885,Room in Rome (Habitación en Roma) (2010),0.3989
+99,383,Wyatt Earp (1994),0.3835
+99,173317,Shadow World (2016),0.372
+99,8264,Grey Gardens (1975),0.3637
+100,6383,"2 Fast 2 Furious (Fast and the Furious 2, The) (2003)",1.1572
+100,184053,Battle Planet (2008),0.3595
+100,38388,Goal! The Dream Begins (Goal!) (2005),0.2361
+100,2105,Tron (1982),0.2273
+100,67255,"Girl with the Dragon Tattoo, The (Män som hatar kvinnor) (2009)",0.2224
+101,1,Toy Story (1995),2.4523
+101,56949,27 Dresses (2008),0.4859
+101,31851,Sons of the Desert (1933),0.4705
+101,8137,"Wasp Woman, The (1959)",0.441
+101,8907,Shark Tale (2004),0.4345
+102,70533,Evangelion: 1.0 You Are (Not) Alone (Evangerion shin gekijôban: Jo) (2007),1.2069
+102,6554,Garage Days (2002),0.3323
+102,57274,[REC] (2007),0.3114
+102,2731,"400 Blows, The (Les quatre cents coups) (1959)",0.31
+102,49772,"Painted Veil, The (2006)",0.3087
+103,39449,Prime (2005),1.9425
+103,1188,Strictly Ballroom (1992),1.8395
+103,122924,X-Men: Apocalypse (2016),1.7092
+103,71057,9 (2009),1.694
+103,31150,Wizards (1977),1.6739
+104,1,Toy Story (1995),3.5901
+104,1884,Fear and Loathing in Las Vegas (1998),0.8108
+104,39801,"Great Yokai War, The (Yôkai daisensô) (2005)",0.8045
+104,5925,"Beast Within, The (1982)",0.7794
+104,85438,Jane Eyre (2011),0.7453
+105,5345,Triumph of the Spirit (1989),0.9459
+105,130444,Ruby Red (2013),0.9218
+105,6407,"Walk, Don't Run (1966)",0.8999
+105,112334,"Internet's Own Boy: The Story of Aaron Swartz, The (2014)",0.8916
+105,8973,Bad Education (La mala educación) (2004),0.8864
+106,1,Toy Story (1995),2.8338
+106,60289,Kit Kittredge: An American Girl (2008),0.8741
+106,4438,"Fist of Fury (Chinese Connection, The) (Jing wu men) (1972)",0.7237
+106,102993,"Way, Way Back, The (2013)",0.7097
+106,79224,"Karate Kid, The (2010)",0.7045
+107,44759,Basic Instinct 2 (2006),1.6145
+107,2656,Tarantula (1955),1.5449
+107,354,Cobb (1994),1.523
+107,107406,Snowpiercer (2013),1.4988
+107,3048,Under the Rainbow (1981),1.4911
+108,92420,Chronicle (2012),0.9318
+108,2962,Fever Pitch (1997),0.2416
+108,2605,Entrapment (1999),0.2222
+108,45635,"Notorious Bettie Page, The (2005)",0.2161
+108,8454,Luna Papa (1999),0.2098
+109,1,Toy Story (1995),1.9551
+109,6185,Dark Blue (2003),0.4913
+109,27829,Slasher (2004),0.4693
+109,100553,Frozen Planet (2011),0.4683
+109,51314,Golden Door (Nuovomondo) (2006),0.4646
+110,1,Toy Story (1995),1.5666
+110,1246,Dead Poets Society (1989),0.3419
+110,3341,Born Yesterday (1950),0.3164
+110,56003,Southland Tales (2006),0.3124
+110,2292,Overnight Delivery (1998),0.3069
+111,1,Toy Story (1995),3.9672
+111,2166,Return to Paradise (1998),0.7008
+111,122884,Insidious: Chapter 3 (2015),0.6794
+111,27751,'Salem's Lot (2004),0.6787
+111,97,"Hate (Haine, La) (1995)",0.5971
+112,179211,Christina P: Mother Inferior (2017),1.5593
+112,5672,Pokemon 4 Ever (a.k.a. Pokémon 4: The Movie) (2002),1.5219
+112,93790,Detachment (2011),1.4562
+112,81562,127 Hours (2010),1.4312
+112,137337,Amy (2015),1.4048
+113,1,Toy Story (1995),1.1276
+113,55363,"Assassination of Jesse James by the Coward Robert Ford, The (2007)",0.3386
+113,40946,Sarah Silverman: Jesus Is Magic (2005),0.3358
+113,65738,Revenge of the Nerds III: The Next Generation (1992),0.3223
+113,7089,Amarcord (1973),0.3206
+114,636,Frisk (1995),0.6203
+114,2105,Tron (1982),0.1951
+114,3425,Mo' Better Blues (1990),0.1377
+114,176935,Geostorm (2017),0.1286
+114,1793,Welcome to Woop-Woop (1997),0.1252
+115,1,Toy Story (1995),2.5874
+115,5954,25th Hour (2002),0.6765
+115,3076,Irma la Douce (1963),0.6752
+115,3086,Babes in Toyland (1934),0.6683
+115,2559,"King and I, The (1999)",0.6658
+116,1,Toy Story (1995),2.7104
+116,6506,Fulltime Killer (Chuen jik sat sau) (2001),0.6781
+116,8813,We Don't Live Here Anymore (2004),0.4923
+116,2194,"Untouchables, The (1987)",0.4855
+116,2365,King Kong vs. Godzilla (Kingukongu tai Gojira) (1962),0.4822
+117,4976,Iris (2001),1.4924
+117,6342,"Trip, The (2002)",0.348
+117,4086,"Big Easy, The (1987)",0.3337
+117,131656,Shaun the Sheep Movie (2015),0.3206
+117,1639,Chasing Amy (1997),0.2946
+118,1,Toy Story (1995),0.9997
+118,8506,Fear X (2003),0.2242
+118,31590,Hands Off the Loot (Touchez pas au grisbi) (1954),0.2169
+118,6559,Little Giants (1994),0.2047
+118,7263,Miracle (2004),0.1867
+119,1128,"Fog, The (1980)",1.5916
+119,3390,Shanghai Surprise (1986),1.4753
+119,2896,Alvarez Kelly (1966),1.43
+119,134528,Aloha (2015),1.3032
+119,165139,Wild Oats (2016),1.0439
+120,1,Toy Story (1995),3.6557
+120,158027,SORI: Voice from the Heart (2016),0.7454
+120,66915,Rock-A-Doodle (1991),0.692
+120,190213,John From (2015),0.6814
+120,1223,"Grand Day Out with Wallace and Gromit, A (1989)",0.6693
+121,115111,Ward 13 (2003),1.5012
+121,6667,Waco: The Rules of Engagement (1997),1.4885
+121,4066,I'm Gonna Git You Sucka (1988),1.3738
+121,6215,Laurel Canyon (2002),1.3471
+121,135815,The Magnificent Ruffians (1979),1.3298
+122,1,Toy Story (1995),2.9742
+122,86295,Scream 4 (2011),0.5971
+122,32302,"League of Ordinary Gentlemen, A (2004)",0.5517
+122,6581,"Private Life of Sherlock Holmes, The (1970)",0.5506
+122,95510,"Amazing Spider-Man, The (2012)",0.5278
+123,1,Toy Story (1995),1.1342
+123,96411,6 Days to Air: The Making of South Park (2011),0.3368
+123,6687,My Boss's Daughter (2003),0.3184
+123,33677,Rock School (2005),0.2881
+123,27837,Flight of the Phoenix (2004),0.2753
+124,4792,13 Ghosts (1960),1.6714
+124,6379,Wrong Turn (2003),1.6017
+124,122882,Mad Max: Fury Road (2015),1.5589
+124,48032,"Tiger and the Snow, The (La tigre e la neve) (2005)",1.4765
+124,3285,"Beach, The (2000)",1.4632
+125,3623,Mission: Impossible II (2000),2.1919
+125,2912,"Limey, The (1999)",0.498
+125,51666,"Abandoned, The (2006)",0.4966
+125,33499,Monster-in-Law (2005),0.4963
+125,2917,Body Heat (1981),0.4857
+126,1,Toy Story (1995),2.0299
+126,116,Anne Frank Remembered (1995),0.4848
+126,773,Touki Bouki (1973),0.4705
+126,178,Love & Human Remains (1993),0.4553
+126,1785,King of New York (1990),0.4524
+127,1,Toy Story (1995),1.4064
+127,63131,Role Models (2008),0.4126
+127,139642,Southpaw (2015),0.3162
+127,1593,Picture Perfect (1997),0.311
+127,986,Fly Away Home (1996),0.2953
+128,1,Toy Story (1995),2.0474
+128,8782,Thunderbirds (2004),0.4124
+128,1503,8 Heads in a Duffel Bag (1997),0.4023
+128,524,Rudy (1993),0.3929
+128,64231,Punisher: War Zone (2008),0.3724
+129,1,Toy Story (1995),2.9962
+129,96655,Robot & Frank (2012),0.6942
+129,6280,"Man Apart, A (2003)",0.6753
+129,31420,Assault on Precinct 13 (2005),0.6699
+129,78499,Toy Story 3 (2010),0.6556
+130,7371,Dogville (2003),1.6422
+130,107462,Ninja: Shadow of a Tear (2013),1.5713
+130,71,Fair Game (1995),1.4269
+130,2950,"Blue Lagoon, The (1980)",1.4139
+130,50999,"Ugly Duckling and Me!, The (2006)",1.4057
+131,1,Toy Story (1995),1.6881
+131,2609,"King of Masks, The (Bian Lian) (1996)",0.304
+131,99910,"Last Stand, The (2013)",0.3025
+131,1254,"Treasure of the Sierra Madre, The (1948)",0.2991
+131,39435,"Legend of Zorro, The (2005)",0.2982
+132,2925,"Conformist, The (Conformista, Il) (1970)",0.5545
+132,2829,"Muse, The (1999)",0.5519
+132,71108,"White Ribbon, The (Das weiße Band) (2009)",0.5416
+132,4080,Baby Boom (1987),0.5331
+132,2546,"Deep End of the Ocean, The (1999)",0.5138
+133,1,Toy Story (1995),1.4206
+133,137337,Amy (2015),0.3455
+133,151311,Wiener-Dog (2016),0.3397
+133,5669,Bowling for Columbine (2002),0.3347
+133,7149,Something's Gotta Give (2003),0.3204
+134,190215,Liquid Truth (2017),1.1287
+134,1699,"Butcher Boy, The (1997)",0.3008
+134,59258,Baby Mama (2008),0.296
+134,69757,(500) Days of Summer (2009),0.2557
+134,166024,Whiplash (2013),0.2488
+135,6572,Scorched (2003),1.6623
+135,3073,"Sandpiper, The (1965)",1.6205
+135,72733,Invictus (2009),1.6093
+135,89945,BlinkyTM (2011),1.5067
+135,2346,"Stepford Wives, The (1975)",1.4661
+136,1,Toy Story (1995),2.6631
+136,8773,Sherlock Holmes and the Secret Weapon (1942),0.5414
+136,27644,Remember Me (Ricordati di me) (2003),0.5244
+136,4727,Captain Corelli's Mandolin (2001),0.5198
+136,158972,Toni Erdmann (2016),0.5105
+137,3920,"Faraway, So Close (In weiter Ferne, so nah!) (1993)",1.5271
+137,2354,"Rugrats Movie, The (1998)",1.5
+137,3898,Bait (2000),1.4437
+137,40412,Dead Man's Shoes (2004),1.4258
+137,6305,Fahrenheit 451 (1966),1.3412
+138,1,Toy Story (1995),3.7101
+138,7103,Madhouse (1990),0.685
+138,6808,Where Eagles Dare (1968),0.679
+138,2447,Varsity Blues (1999),0.6695
+138,175485,Death Note (2017),0.6567
+139,1,Toy Story (1995),3.4486
+139,142831,Garam Masala (2005),0.6724
+139,53921,"Mighty Heart, A (2007)",0.6197
+139,183317,Patti Rocks (1988),0.6111
+139,89898,Generation P (2011),0.5988
+140,3111,Places in the Heart (1984),1.5062
+140,2820,Hamlet (1964),1.3551
+140,87234,Submarine (2010),1.342
+140,1837,"Odd Couple II, The (1998)",1.3265
+140,7215,To Have and Have Not (1944),1.3195
+141,103048,"Kings of Summer, The (2013)",1.7333
+141,6678,"Handmaid's Tale, The (1990)",1.7255
+141,2149,House II: The Second Story (1987),1.6723
+141,86835,Priest (2011),1.6543
+141,8142,Dead or Alive: Hanzaisha (1999),1.6421
+142,1,Toy Story (1995),1.9388
+142,102007,"Invincible Iron Man, The (2007)",0.4619
+142,8917,Team America: World Police (2004),0.4466
+142,4474,Beaches (1988),0.4427
+142,2483,"Day of the Beast, The (Día de la Bestia, El) (1995)",0.4367
+143,1,Toy Story (1995),3.5549
+143,2431,Patch Adams (1998),0.7864
+143,6153,Zapped! (1982),0.7209
+143,3479,Ladyhawke (1985),0.6508
+143,124404,"Snowflake, the White Gorilla (2011)",0.6499
+144,152077,10 Cloverfield Lane (2016),1.6773
+144,111795,Million Dollar Arm (2014),1.6529
+144,138835,Return to Treasure Island (1988),1.6476
+144,8773,Sherlock Holmes and the Secret Weapon (1942),1.6064
+144,117877,The Rabbi's Cat (Le chat du rabbin) (2011),1.5445
+145,34164,Happy Endings (2005),2.3294
+145,146662,Dragons: Gift of the Night Fury (2011),1.6408
+145,2876,Thumbelina (1994),1.6168
+145,136556,Kung Fu Panda: Secrets of the Masters (2011),1.5931
+145,95311,Presto (2008),1.5555
+146,1,Toy Story (1995),2.5815
+146,87197,Let the Bullets Fly (2010),0.6006
+146,5838,Madame Bovary (1991),0.593
+146,64010,"Children, The (2008)",0.5798
+146,6402,Siam Sunset (1999),0.5423
+147,1,Toy Story (1995),3.0707
+147,1190,Tie Me Up! Tie Me Down! (¡Átame!) (1990),0.6281
+147,131439,Kill Me Three Times (2014),0.6281
+147,109848,Under the Skin (2013),0.6117
+147,1427,Turbulence (1997),0.594
+148,1,Toy Story (1995),3.892
+148,114713,Annabelle (2014),0.8931
+148,163985,ARQ (2016),0.8784
+148,3281,"Brandon Teena Story, The (1998)",0.8581
+148,143245,The Little Prince (2015),0.8419
+149,1,Toy Story (1995),1.1942
+149,76175,Clash of the Titans (2010),0.2952
+149,51931,Reign Over Me (2007),0.2882
+149,5416,Cherish (2002),0.277
+149,41863,"Three Burials of Melquiades Estrada, The (2006)",0.276
+150,1,Toy Story (1995),2.1352
+150,91414,Arthur Christmas (2011),0.451
+150,4663,She's Out of Control (1989),0.4141
+150,4857,Fiddler on the Roof (1971),0.4008
+150,6410,Car Wash (1976),0.4006
+151,80586,Flipped (2010),2.6345
+151,4276,Lost in America (1985),0.6583
+151,73741,Ninja (2009),0.6466
+151,168456,Mercury Plains (2016),0.6068
+151,5828,Blackrock (1997),0.6062
+152,1,Toy Story (1995),1.2821
+152,6974,"Freshman, The (1990)",0.3007
+152,4280,"World According to Garp, The (1982)",0.2962
+152,106916,American Hustle (2013),0.29
+152,33166,Crash (2004),0.2894
+153,31702,Turtles Can Fly (Lakposhtha hâm parvaz mikonand) (2004),0.3487
+153,8848,"Vitelloni, I (a.k.a. The Young and the Passionate) (1953)",0.3365
+153,5404,84 Charing Cross Road (1987),0.3292
+153,96588,Pitch Perfect (2012),0.3278
+153,54259,Stardust (2007),0.3124
+154,1,Toy Story (1995),3.4512
+154,7891,"Last Man on Earth, The (Ultimo uomo della Terra, L') (1964)",0.6596
+154,31700,Because of Winn-Dixie (2005),0.6417
+154,8362,Raising Helen (2004),0.6001
+154,109864,Veronica Mars (2014),0.5997
+155,172875,A Detective Story (2003),1.9751
+155,75341,Remember Me (2010),1.9156
+155,3251,Agnes of God (1985),1.791
+155,34143,Dark Water (2005),1.6022
+155,5553,Stakeout (1987),1.5521
+156,4642,Hedwig and the Angry Inch (2000),2.3221
+156,74795,Green Zone (2010),0.7221
+156,88746,Terri (2011),0.7217
+156,1956,Ordinary People (1980),0.6673
+156,112421,Frank (2014),0.653
+157,1,Toy Story (1995),3.1719
+157,103539,The Spectacular Now (2013),0.6572
+157,163645,Hacksaw Ridge (2016),0.6444
+157,142444,The Editor (2015),0.6393
+157,4961,Pornstar: The Legend of Ron Jeremy (2001),0.6196
+158,1,Toy Story (1995),1.8917
+158,2898,"Dark Half, The (1993)",0.3691
+158,95377,One Man Band (2005),0.3661
+158,405,Highlander III: The Sorcerer (a.k.a. Highlander: The Final Dimension) (1994),0.3398
+158,5459,Men in Black II (a.k.a. MIIB) (a.k.a. MIB 2) (2002),0.3368
+159,43679,Final Destination 3 (2006),0.4794
+159,4672,"Tall Guy, The (1989)",0.1121
+159,4406,"Man Who Shot Liberty Valance, The (1962)",0.1093
+159,31925,Royal Flash (1975),0.1031
+159,59014,Superhero Movie (2008),0.0969
+160,47725,Angel-A (2005),2.0189
+160,2690,"Ideal Husband, An (1999)",1.6065
+160,1406,La Cérémonie (1995),1.5686
+160,187541,Incredibles 2 (2018),1.5087
+160,26124,Robinson Crusoe on Mars (1964),1.4903
+161,2117,1984 (Nineteen Eighty-Four) (1984),2.2161
+161,4705,"Cage aux Folles, La (1978)",2.0341
+161,1679,Chairman of the Board (1998),2.0289
+161,91337,Play the Game (2009),1.9106
+161,4735,Ghosts of Mars (2001),1.83
+162,1,Toy Story (1995),1.0016
+162,2321,Pleasantville (1998),0.2159
+162,6448,"Flight of the Phoenix, The (1965)",0.2114
+162,7782,Sniper (1993),0.2108
+162,118894,Scooby-Doo! Abracadabra-Doo (2010),0.2072
+163,1,Toy Story (1995),1.4719
+163,89774,Warrior (2011),0.4167
+163,4214,Revenge of the Nerds (1984),0.3818
+163,3244,"Goodbye Girl, The (1977)",0.3815
+163,3386,JFK (1991),0.3509
+164,1,Toy Story (1995),1.5467
+164,4496,D.O.A. (1988),0.4445
+164,3108,"Fisher King, The (1991)",0.3474
+164,4426,Kiss Me Deadly (1955),0.3351
+164,158830,The BFG (2016),0.3192
+165,1,Toy Story (1995),2.2885
+165,7926,High and Low (Tengoku to jigoku) (1963),0.4178
+165,3358,Defending Your Life (1991),0.3597
+165,4260,"Visit, The (2000)",0.3541
+165,4927,"Last Wave, The (1977)",0.3472
+166,55814,"Diving Bell and the Butterfly, The (Scaphandre et le papillon, Le) (2007)",1.5841
+166,2726,"Killing, The (1956)",0.2878
+166,58826,"Shepherd: Border Patrol, The (2008)",0.2688
+166,80862,Catfish (2010),0.2645
+166,4546,"Vanishing, The (Spoorloos) (1988)",0.2622
+167,4794,Opera (1987),2.2007
+167,6628,Hot Dog... The Movie (1984),2.0071
+167,30825,Meet the Fockers (2004),1.8868
+167,7299,Monsieur Ibrahim (Monsieur Ibrahim et les fleurs du Coran) (2003),1.8391
+167,5889,"Cruel Romance, A (Zhestokij Romans) (1984)",1.7904
+168,1,Toy Story (1995),1.6673
+168,47491,Adam's Apples (Adams æbler) (2005),0.3241
+168,4210,Manhunter (1986),0.3154
+168,111146,Alpha and Omega 3: The Great Wolf Games (2014),0.3146
+168,4700,"Princess Diaries, The (2001)",0.3144
+169,3871,Shane (1953),1.8394
+169,6619,Uptown Girls (2003),1.783
+169,31086,Battles Without Honor & Humanity (Jingi naki tatakai) (1973),1.6734
+169,3861,"Replacements, The (2000)",1.6708
+169,69394,"Stoning of Soraya M., The (2008)",1.614
+170,1,Toy Story (1995),2.5558
+170,53280,"Breed, The (2006)",0.5599
+170,126142,The Cave of the Golden Rose (1991),0.5548
+170,7451,Mean Girls (2004),0.4917
+170,173253,Vir Das: Abroad Understanding (2017),0.4838
+171,111743,A Million Ways to Die in the West (2014),1.7898
+171,4069,"Wedding Planner, The (2001)",1.7487
+171,112788,Sex Tape (2014),1.6777
+171,114670,Tusk (2014),1.6274
+171,3728,One False Move (1992),1.5933
+172,1,Toy Story (1995),3.4517
+172,5927,"Best Little Whorehouse in Texas, The (1982)",0.6723
+172,157340,The Angry Birds Movie (2016),0.6164
+172,51573,Meshes of the Afternoon (1943),0.5942
+172,90746,"Adventures of Tintin, The (2011)",0.575
+173,1,Toy Story (1995),2.7694
+173,4814,Don't Say a Word (2001),0.6579
+173,91890,"Iron Lady, The (2011)",0.6232
+173,109313,Chouchou (2003),0.618
+173,155509,Mr. Right (2016),0.6114
+174,1,Toy Story (1995),2.5046
+174,7396,Scenes From a Marriage (Scener ur ett äktenskap) (1973),0.6285
+174,74154,When in Rome (2010),0.5068
+174,5610,"Banger Sisters, The (2002)",0.4703
+174,162968,Kizumonogatari Part 1: Tekketsu (2016),0.3679
+175,1,Toy Story (1995),1.3948
+175,145491,Our Lips Are Sealed (2000),0.3135
+175,3161,Onegin (1999),0.3051
+175,2822,Medicine Man (1992),0.2907
+175,86815,Soul Surfer (2011),0.2903
+176,1,Toy Story (1995),2.3836
+176,170777,There Once Was a Dog (1982),0.4562
+176,93982,"Raven, The (2012)",0.4412
+176,5113,After the Fox (Caccia alla volpe) (1966),0.4409
+176,8582,Manufacturing Consent: Noam Chomsky and the Media (1992),0.4322
+177,2255,Young Doctors in Love (1982),1.7692
+177,3689,Porky's II: The Next Day (1983),1.7589
+177,150696,Tomorrow (2015),1.6876
+177,92681,Journey 2: The Mysterious Island (2012),1.6217
+177,3545,Cabaret (1972),1.6181
+178,3802,Freejack (1992),1.5179
+178,8879,Murder on the Orient Express (1974),1.3876
+178,135937,The Silence of the Hams (1994),1.2999
+178,152270,The Wait (2015),1.2424
+178,106491,47 Ronin (2013),1.2115
+179,94810,Eva (2011),1.6206
+179,122884,Insidious: Chapter 3 (2015),1.5971
+179,37720,"Exorcism of Emily Rose, The (2005)",1.5413
+179,4343,Evolution (2001),1.5236
+179,1394,Raising Arizona (1987),1.523
+180,1,Toy Story (1995),2.7709
+180,4523,Milagro Beanfield War (1988),0.6896
+180,176329,Ari Shaffir: Double Negative (2017),0.5958
+180,98243,Rise of the Guardians (2012),0.5795
+180,6016,City of God (Cidade de Deus) (2002),0.5541
+181,1,Toy Story (1995),2.3643
+181,1517,Austin Powers: International Man of Mystery (1997),0.5394
+181,57522,First Sunday (2008),0.5196
+181,2203,Shadow of a Doubt (1943),0.5021
+181,55294,Weirdsville (2007),0.4999
+182,1655,Phantoms (1998),1.595
+182,180297,The Disaster Artist (2017),1.5206
+182,1092,Basic Instinct (1992),1.4501
+182,58559,"Dark Knight, The (2008)",1.4365
+182,122627,Oblivion 2: Backlash (1996),1.3735
+183,1,Toy Story (1995),1.0912
+183,170289,Species III (2004),0.2892
+183,93297,Act of Valor (2012),0.2581
+183,6296,"Mighty Wind, A (2003)",0.2571
+183,4046,Friendly Persuasion (1956),0.2512
+184,7069,"Macbeth (a.k.a. Tragedy of Macbeth, The) (1971)",1.2968
+184,34338,"Aristocrats, The (2005)",0.2558
+184,62113,How to Lose Friends & Alienate People (2008),0.2506
+184,4800,King Solomon's Mines (1937),0.2441
+184,2698,Zone 39 (1997),0.2415
+185,7846,Tremors 3: Back to Perfection (2001),1.8658
+185,51694,Starter for 10 (2006),1.7883
+185,1272,Patton (1970),1.6447
+185,87485,Bad Teacher (2011),1.5246
+185,82242,Rare Exports: A Christmas Tale (Rare Exports) (2010),1.4701
+186,3792,Duel in the Sun (1946),1.8989
+186,170355,Mulholland Dr. (1999),0.2989
+186,114762,Two Night Stand (2014),0.2841
+186,4850,Spriggan (Supurigan) (1998),0.2697
+186,54,"Big Green, The (1995)",0.265
+187,1,Toy Story (1995),1.7851
+187,99917,Upstream Color (2013),0.44
+187,73929,Legion (2010),0.4341
+187,7122,King of Hearts (1966),0.4313
+187,1337,"Body Snatcher, The (1945)",0.4089
+188,1,Toy Story (1995),2.5053
+188,6803,Phenomena (a.k.a. Creepers) (1985),0.6186
+188,61026,Red Cliff (Chi bi) (2008),0.4712
+188,55280,Lars and the Real Girl (2007),0.4404
+188,132488,Lovesick (2014),0.4402
+189,1,Toy Story (1995),2.1181
+189,219,"Cure, The (1995)",0.5084
+189,633,Denise Calls Up (1995),0.4698
+189,6387,Once a Thief (Zong heng si hai) (1991),0.4555
+189,46578,Little Miss Sunshine (2006),0.4543
+190,1,Toy Story (1995),2.3247
+190,5829,Men with Brooms (2002),0.574
+190,147002,Eros (2004),0.5569
+190,479,Judgment Night (1993),0.5341
+190,108540,Ernest & Célestine (Ernest et Célestine) (2012),0.5292
+191,4615,Last Exit to Brooklyn (1989),1.4169
+191,1978,Friday the 13th Part V: A New Beginning (1985),1.3769
+191,103655,R.I.P.D. (2013),1.2963
+191,6021,"American Friend, The (Amerikanische Freund, Der) (1977)",1.2566
+191,4584,Dream a Little Dream (1989),1.2236
+192,1,Toy Story (1995),1.3706
+192,164,Devil in a Blue Dress (1995),0.3432
+192,43836,"Pink Panther, The (2006)",0.3416
+192,8531,White Chicks (2004),0.3339
+192,5109,Return to Never Land (2002),0.3265
+193,6817,"White Hunter, Black Heart (1990)",0.4732
+193,7209,"M. Hulot’s Holiday (Mr. Hulot's Holiday) (Vacances de Monsieur Hulot, Les) (1953)",0.4395
+193,26394,"Turning Point, The (1977)",0.4222
+193,1962,Driving Miss Daisy (1989),0.4203
+193,152079,London Has Fallen (2016),0.4081
+194,1,Toy Story (1995),2.1231
+194,994,Big Night (1996),0.5568
+194,3060,"Commitments, The (1991)",0.4098
+194,159858,The Conjuring 2 (2016),0.4022
+194,1805,Wild Things (1998),0.3933
+195,1,Toy Story (1995),1.9464
+195,24,Powder (1995),0.3405
+195,7834,After the Thin Man (1936),0.3111
+195,823,"Collector, The (La collectionneuse) (1967)",0.2936
+195,8154,"Dolce Vita, La (1960)",0.2871
+196,1,Toy Story (1995),1.6357
+196,6586,American Wedding (American Pie 3) (2003),0.3937
+196,5963,"Children's Hour, The (1961)",0.3833
+196,186,Nine Months (1995),0.3821
+196,3161,Onegin (1999),0.3582
+197,1,Toy Story (1995),1.3365
+197,5445,Minority Report (2002),0.3037
+197,51412,Next (2007),0.2817
+197,26547,Police Story (Ging chaat goo si) (1985),0.2649
+197,6119,Santa Claus Is a Stinker (Le Père Noël est une ordure) (1982),0.2601
+198,1,Toy Story (1995),1.7008
+198,2399,Santa Claus: The Movie (1985),0.3639
+198,4240,Just Visiting (2001),0.3593
+198,53022,Wheels on Meals (Kuai can che) (1984),0.3472
+198,53123,Once (2006),0.334
+199,1,Toy Story (1995),1.1843
+199,6696,Bollywood/Hollywood (2002),0.3248
+199,6006,Just Married (2003),0.3083
+199,2828,Dudley Do-Right (1999),0.304
+199,898,"Philadelphia Story, The (1940)",0.3036
+200,4141,Head Over Heels (2001),1.5197
+200,6269,Stevie (2002),1.4566
+200,6947,Master and Commander: The Far Side of the World (2003),1.4304
+200,2360,"Celebration, The (Festen) (1998)",1.3893
+200,2090,"Rescuers, The (1977)",1.2638
+201,31590,Hands Off the Loot (Touchez pas au grisbi) (1954),2.0094
+201,67665,Anvil! The Story of Anvil (2008),1.6753
+201,183897,Isle of Dogs (2018),1.6701
+201,1589,Cop Land (1997),1.5941
+201,2732,Jules and Jim (Jules et Jim) (1961),1.58
+202,2506,"Other Sister, The (1999)",2.4043
+202,142598,Last Shift (2014),0.7468
+202,4117,Hope and Glory (1987),0.7002
+202,4053,Double Take (2001),0.6848
+202,139994,Fracchia contro Dracula (1985),0.665
+203,1,Toy Story (1995),3.1946
+203,6334,Blue Car (2002),0.6567
+203,3774,House Party 2 (1991),0.6403
+203,34532,"Skeleton Key, The (2005)",0.628
+203,203,"To Wong Foo, Thanks for Everything! Julie Newmar (1995)",0.6259
+204,1,Toy Story (1995),1.7518
+204,132488,Lovesick (2014),0.5218
+204,44972,Scary Movie 4 (2006),0.5044
+204,94661,Rocket Singh: Salesman of the Year (2009),0.5025
+204,1457,Fools Rush In (1997),0.4965
+205,1,Toy Story (1995),3.9851
+205,72701,Planet 51 (2009),0.6605
+205,277,Miracle on 34th Street (1994),0.6005
+205,2139,"Secret of NIMH, The (1982)",0.5883
+205,65130,Revolutionary Road (2008),0.5805
+206,92509,"Vow, The (2012)",1.8154
+206,37382,Domino (2005),1.724
+206,27762,Comic Book: The Movie (2004),1.6144
+206,128099,Jim Jefferies: BARE (2014),1.5768
+206,26285,Dark Star (1974),1.5305
+207,1,Toy Story (1995),2.0477
+207,150993,Anacleto: Agente secreto (2015),0.5042
+207,1662,Gang Related (1997),0.4881
+207,49396,Tenacious D in The Pick of Destiny (2006),0.4738
+207,74677,"Yes Men Fix the World, The (2009)",0.4713
+208,1,Toy Story (1995),1.4398
+208,3217,"Star Is Born, A (1937)",0.2646
+208,55442,Persepolis (2007),0.2627
+208,85020,"Mechanic, The (2011)",0.2427
+208,69140,Sweeney Todd (2006),0.2422
+209,1,Toy Story (1995),1.3615
+209,2887,Simon Sez (1999),0.3821
+209,4603,Her Alibi (1989),0.3748
+209,44943,9/11 (2002),0.3604
+209,119068,"Men, Women & Children (2014)",0.3492
+210,41712,"Room for Romeo Brass, A (1999)",0.9654
+210,1244,Manhattan (1979),0.2676
+210,2155,"Slums of Beverly Hills, The (1998)",0.2109
+210,98083,Jackass 3.5 (2011),0.2089
+210,95771,Dragon Ball Z: Broly Second Coming (Doragon bôru Z 10: Kiken na futari! Sûpâ senshi wa nemurenai) (1994),0.2029
+211,1,Toy Story (1995),2.1034
+211,3673,Benji the Hunted (1987),0.4851
+211,4874,K-PAX (2001),0.4481
+211,3423,School Daze (1988),0.4479
+211,47970,"Last Kiss, The (2006)",0.4416
+212,1,Toy Story (1995),3.1789
+212,2929,Reds (1981),0.7142
+212,7071,"Woman Under the Influence, A (1974)",0.6899
+212,133771,The Lobster (2015),0.6293
+212,123947,Cake (2014),0.6178
+213,4039,Annie (1982),0.661
+213,54281,Charlie Bartlett (2007),0.1256
+213,2240,My Bodyguard (1980),0.1216
+213,72424,Derailed (2002),0.1181
+213,54274,I Know Who Killed Me (2007),0.1155
+214,813,Larger Than Life (1996),1.8593
+214,1339,Dracula (Bram Stoker's Dracula) (1992),1.6701
+214,2985,RoboCop (1987),1.6672
+214,5338,Full Moon in Blue Water (1988),1.6354
+214,5278,Fraternity Vacation (1985),1.634
+215,1,Toy Story (1995),1.6931
+215,184931,Death Wish (2018),0.468
+215,77688,Three Men and a Cradle (3 hommes et un couffin) (1985),0.438
+215,43558,Big Momma's House 2 (2006),0.425
+215,2295,"Impostors, The (1998)",0.423
+216,5387,Enough (2002),1.6263
+216,26704,State of Grace (1990),1.6033
+216,2038,"Cat from Outer Space, The (1978)",1.5895
+216,4745,O (2001),1.5825
+216,3418,Thelma & Louise (1991),1.5393
+217,4067,Untamed Heart (1993),1.7774
+217,7033,"Secret of My Succe$s, The (a.k.a. The Secret of My Success) (1987)",1.6712
+217,98122,Indie Game: The Movie (2012),1.6364
+217,26510,"Ewok Adventure, The (a.k.a. Caravan of Courage: An Ewok Adventure) (1984)",1.6355
+217,496,What Happened Was... (1994),1.5393
+218,1,Toy Story (1995),2.3308
+218,37729,Corpse Bride (2005),0.5673
+218,88272,"Woman, The (2011)",0.5636
+218,2010,Metropolis (1927),0.5607
+218,305,Ready to Wear (Pret-A-Porter) (1994),0.5548
+219,173291,Valerian and the City of a Thousand Planets (2017),1.59
+219,161127,The Infiltrator (2016),1.5248
+219,32289,Ice Princess (2005),1.5107
+219,30749,Hotel Rwanda (2004),1.5083
+219,97836,Here Comes the Boom (2012),1.5004
+220,70159,Orphan (2009),1.6339
+220,112334,"Internet's Own Boy: The Story of Aaron Swartz, The (2014)",1.5885
+220,51694,Starter for 10 (2006),1.5788
+220,94015,Mirror Mirror (2012),1.5677
+220,3741,Badlands (1973),1.5534
+221,34,Babe (1995),1.9167
+221,1489,Cats Don't Dance (1997),0.4687
+221,109374,"Grand Budapest Hotel, The (2014)",0.4161
+221,132084,Let It Be Me (1995),0.4121
+221,26231,Performance (1970),0.4037
+222,1,Toy Story (1995),1.9251
+222,96520,Prime Suspect: The Lost Child (1995),0.4372
+222,8952,Falling Angels (2003),0.4315
+222,5963,"Children's Hour, The (1961)",0.421
+222,62662,Tokyo-Ga (1985),0.4125
+223,136834,The Eye: Infinity (2005),2.197
+223,984,"Pompatus of Love, The (1996)",1.6081
+223,5572,Barbershop (2002),1.6003
+223,101765,"Perfect Plan, A (Plan parfait, Un) (2012)",1.5723
+223,96832,Holy Motors (2012),1.564
+224,1,Toy Story (1995),2.1482
+224,135518,Self/less (2015),0.5475
+224,8591,"Philadelphia Experiment, The (1984)",0.5249
+224,71438,Still Walking (Aruitemo aruitemo) (2008),0.5188
+224,95473,Dragon Ball Z: The Return of Cooler (Doragon bôru Z 6: Gekitotsu! Hyakuoku pawâ no senshi) (1992),0.513
+225,1,Toy Story (1995),2.5087
+225,127390,Family Guy Presents: Blue Harvest (2007),0.7485
+225,5047,Kung Pow: Enter the Fist (2002),0.678
+225,2089,"Rescuers Down Under, The (1990)",0.6617
+225,100714,Before Midnight (2013),0.6576
+226,26124,Robinson Crusoe on Mars (1964),2.2537
+226,1951,Oliver! (1968),1.9313
+226,111320,Mom's Night Out (2014),1.672
+226,71902,Spread (2009),1.6634
+226,169958,Buster's Mal Heart (2017),1.652
+227,1,Toy Story (1995),1.6773
+227,34319,"Island, The (2005)",0.3582
+227,2068,Fanny and Alexander (Fanny och Alexander) (1982),0.328
+227,79895,"Extraordinary Adventures of Adèle Blanc-Sec, The (2010)",0.3083
+227,1834,"Spanish Prisoner, The (1997)",0.3078
+228,1,Toy Story (1995),1.2215
+228,4248,Josie and the Pussycats (2001),0.2889
+228,6187,"Life of David Gale, The (2003)",0.2823
+228,40826,Rent (2005),0.2641
+228,7772,Undercurrent (1946),0.2622
+229,5088,"Going Places (Valseuses, Les) (1974)",1.5214
+229,91386,Happy Feet Two (2011),1.5156
+229,4299,"Knight's Tale, A (2001)",1.4642
+229,50147,Black Christmas (2006),1.4448
+229,26861,Freaked (1993),1.4343
+230,1,Toy Story (1995),2.8133
+230,7884,Highway 61 (1991),0.7187
+230,2802,Tequila Sunrise (1988),0.632
+230,8685,"Miracle of Marcelino, The (Marcelino pan y vino) (1955)",0.6146
+230,2051,Herbie Goes to Monte Carlo (1977),0.5843
+231,1,Toy Story (1995),1.6715
+231,4749,3 Ninjas Kick Back (1994),0.3114
+231,100397,"ABCs of Death, The (2012)",0.3006
+231,2430,Mighty Joe Young (1949),0.2888
+231,5637,Flirting (1991),0.285
+232,144210,Just Eat It: A Food Waste Story (2014),1.6909
+232,93008,"Very Potter Sequel, A (2010)",1.5996
+232,112897,The Expendables 3 (2014),1.5461
+232,163985,ARQ (2016),1.4662
+232,87222,Kung Fu Panda 2 (2011),1.4055
+233,160644,Indignation (2016),1.4381
+233,93040,"Civil War, The (1990)",1.4211
+233,6617,Open Range (2003),1.3925
+233,95873,Ruby Sparks (2012),1.3701
+233,91890,"Iron Lady, The (2011)",1.3448
+234,2134,Weird Science (1985),1.8564
+234,599,"Wild Bunch, The (1969)",1.8351
+234,88094,Upside Down: The Creation Records Story (2010),1.7968
+234,105,"Bridges of Madison County, The (1995)",1.7691
+234,8526,Around the World in 80 Days (2004),1.761
+235,1,Toy Story (1995),2.2466
+235,6337,Owning Mahowny (2003),0.5572
+235,3501,Murphy's Romance (1985),0.5134
+235,4750,3 Ninjas Knuckle Up (1995),0.4739
+235,4787,Little Man Tate (1991),0.3699
+236,1,Toy Story (1995),2.7688
+236,45062,"Sentinel, The (2006)",0.5469
+236,32799,Maidens in Uniform (Mädchen in Uniform) (1931),0.5239
+236,4422,Cries and Whispers (Viskningar och rop) (1972),0.5182
+236,5221,Harrison's Flowers (2000),0.4906
+237,1,Toy Story (1995),1.2006
+237,72407,"Twilight Saga: New Moon, The (2009)",0.3222
+237,43932,Pulse (2006),0.2931
+237,141820,Old Men: Robbers (1971),0.2929
+237,89343,Red State (2011),0.2843
+238,1,Toy Story (1995),0.6027
+238,1060,Swingers (1996),0.2256
+238,6480,Thoroughly Modern Millie (1967),0.221
+238,4794,Opera (1987),0.1501
+238,5512,Secret Ballot (Raye makhfi) (2001),0.1497
+239,6996,Highlander II: The Quickening (1991),2.2939
+239,87304,Beginners (2010),1.4319
+239,180231,Daddy's Home 2 (2017),1.408
+239,7328,"Passion of Anna, The (Passion, En) (1969)",1.3988
+239,2310,"Mighty, The (1998)",1.3107
+240,49286,"Holiday, The (2006)",1.8211
+240,115231,St. Vincent (2014),1.7911
+240,79553,Ip Man 2 (2010),1.6889
+240,6035,Pépé le Moko (1937),1.5826
+240,3077,42 Up (1998),1.5817
+241,1,Toy Story (1995),1.4193
+241,7156,"Fog of War: Eleven Lessons from the Life of Robert S. McNamara, The (2003)",0.2959
+241,55036,Gotti (1996),0.264
+241,105211,Enough Said (2013),0.2419
+241,173145,War for the Planet of the Apes (2017),0.2419
+242,1,Toy Story (1995),2.6064
+242,106542,Charlie Countryman (2013),0.5238
+242,3470,Dersu Uzala (1975),0.4804
+242,2078,"Jungle Book, The (1967)",0.4587
+242,87194,The Way (2010),0.4555
+243,1,Toy Story (1995),2.65
+243,163985,ARQ (2016),0.6043
+243,2114,"Outsiders, The (1983)",0.5696
+243,89039,Another Earth (2011),0.5553
+243,2465,Deadly Friend (1986),0.5516
+244,1,Toy Story (1995),1.5475
+244,423,Blown Away (1994),0.3708
+244,26095,"Carabineers, The (Carabiniers, Les) (1963)",0.3496
+244,915,Sabrina (1954),0.3444
+244,36535,Everything Is Illuminated (2005),0.3286
+245,1,Toy Story (1995),3.4173
+245,2764,"Thomas Crown Affair, The (1968)",0.6405
+245,33164,House of Wax (2005),0.6
+245,34271,Hustle & Flow (2005),0.593
+245,93805,Iron Sky (2012),0.5864
+246,1,Toy Story (1995),3.121
+246,4105,"Evil Dead, The (1981)",0.6865
+246,4649,Wet Hot American Summer (2001),0.6855
+246,89837,Kill List (2011),0.6587
+246,72591,"Patriot, The (1998)",0.6499
+247,773,Touki Bouki (1973),1.7235
+247,4419,All That Heaven Allows (1955),1.6163
+247,1456,"Pest, The (1997)",1.572
+247,32179,Elevator to the Gallows (a.k.a. Frantic) (Ascenseur pour l'échafaud) (1958),1.4927
+247,2038,"Cat from Outer Space, The (1978)",1.4793
+248,141688,Legend (2015),0.6269
+248,141994,Saving Christmas (2014),0.2254
+248,157340,The Angry Birds Movie (2016),0.1489
+248,107630,High School (2010),0.1479
+248,7564,Kwaidan (Kaidan) (1964),0.1143
+249,6909,"Eye, The (Gin gwai) (Jian gui) (2002)",1.6245
+249,5064,The Count of Monte Cristo (2002),1.6164
+249,6853,Campus Man (1987),1.5682
+249,8044,I Am a Fugitive from a Chain Gang (1932),1.5451
+249,1161,"Tin Drum, The (Blechtrommel, Die) (1979)",1.5406
+250,1,Toy Story (1995),2.06
+250,5014,I Am Sam (2001),0.5264
+250,1392,Citizen Ruth (1996),0.513
+250,1779,Sphere (1998),0.4957
+250,2374,Gung Ho (1986),0.482
+251,1,Toy Story (1995),1.3676
+251,4863,Female Trouble (1975),0.3964
+251,214,Before the Rain (Pred dozhdot) (1994),0.3925
+251,3851,I'm the One That I Want (2000),0.3868
+251,70301,Obsessed (2009),0.3817
+252,81520,Undisputed III: Redemption (2010),2.2083
+252,142448,Everest (2015),2.1343
+252,5706,...All the Marbles (1981),2.0606
+252,89030,Fright Night (2011),2.0
+252,75803,Our Family Wedding (2010),1.9142
+253,102084,Justice League: Doom (2012) ,0.6702
+253,61262,Mirrors (2008),0.1806
+253,1080,Monty Python's Life of Brian (1979),0.1729
+253,91079,Like Crazy (2011),0.1718
+253,90376,We Need to Talk About Kevin (2011),0.1602
+254,804,She's the One (1996),1.7921
+254,53,Lamerica (1994),1.376
+254,3802,Freejack (1992),1.3463
+254,61024,Pineapple Express (2008),1.2938
+254,8609,Our Hospitality (1923),1.2815
+255,1730,Kundun (1997),0.2061
+255,169912,Denis Leary: No Cure for Cancer (1993),0.0872
+255,1459,Absolute Power (1997),0.0856
+255,6851,"Gas, Food, Lodging (1992)",0.0828
+255,2385,Home Fries (1998),0.0794
+256,1,Toy Story (1995),2.6988
+256,1343,Cape Fear (1991),0.8297
+256,131480,Poker Night (2014),0.5831
+256,2328,Vampires (1998),0.5787
+256,2448,Virus (1999),0.5715
+257,1,Toy Story (1995),2.0951
+257,5947,Evelyn (2002),0.6425
+257,5513,Martin Lawrence Live: Runteldat (2002),0.6266
+257,2880,Armour of God (Long xiong hu di) (1987),0.591
+257,48593,Man of the Year (2006),0.5774
+258,1,Toy Story (1995),2.6162
+258,26819,Fortress (1992),0.6257
+258,141646,The Unauthorized Saved by the Bell Story (2014),0.6027
+258,102070,Grabbers (2012),0.581
+258,3724,Coming Home (1978),0.5721
+259,1,Toy Story (1995),4.0543
+259,32302,"League of Ordinary Gentlemen, A (2004)",0.8047
+259,103027,Much Ado About Nothing (2012),0.7941
+259,82744,Faster (2010),0.7834
+259,1277,Cyrano de Bergerac (1990),0.7822
+260,1,Toy Story (1995),2.1448
+260,100810,Dark Skies (2013),0.5585
+260,1676,Starship Troopers (1997),0.5432
+260,113275,The Hundred-Foot Journey (2014),0.539
+260,7936,Shame (Skammen) (1968),0.5294
+261,1,Toy Story (1995),0.9074
+261,8491,White Heat (1949),0.2424
+261,4268,Town & Country (2001),0.206
+261,41997,Munich (2005),0.1939
+261,88345,Mike's New Car (2002),0.1857
+262,1,Toy Story (1995),1.8781
+262,58655,Drillbit Taylor (2008),0.3945
+262,8191,Anne of the Thousand Days (1969),0.3632
+262,7932,Dark Days (2000),0.3624
+262,101525,"Place Beyond the Pines, The (2012)",0.362
+263,6970,Desk Set (1957),1.5616
+263,4110,"Fourth Protocol, The (1987)",1.5589
+263,92046,Contact High (2009),1.5096
+263,95796,Anaconda: The Offspring (2008),1.4885
+263,8530,Dear Frankie (2004),1.4738
+264,168254,Kong: Skull Island (2017),1.7695
+264,3852,"Tao of Steve, The (2000)",1.7108
+264,82152,Beastly (2011),1.6681
+264,101070,Wadjda (2012),1.6672
+264,3189,My Dog Skip (1999),1.6523
+265,1,Toy Story (1995),1.6711
+265,4290,For the Boys (1991),0.3159
+265,57274,[REC] (2007),0.3137
+265,61167,Henry Poole is Here (2008),0.3101
+265,6997,Hoffa (1992),0.3087
+266,1479,"Saint, The (1997)",0.5959
+266,190221,Hommage à Zgougou (et salut à Sabine Mamou) (2002),0.5259
+266,6003,Confessions of a Dangerous Mind (2002),0.504
+266,2392,Jack Frost (1998),0.4633
+266,79501,Deadly Outlaw: Rekka (a.k.a. Violent Fire) (Jitsuroku Andô Noboru kyôdô-den: Rekka) (2002),0.4622
+267,1,Toy Story (1995),1.6934
+267,4210,Manhunter (1986),0.5422
+267,189381,SuperFly (2018),0.3596
+267,42418,"New World, The (2005)",0.3552
+267,50274,Venus (2006),0.3432
+268,1,Toy Story (1995),2.0633
+268,3469,Inherit the Wind (1960),0.4345
+268,121007,Space Buddies (2009),0.3933
+268,91261,Hipsters (Stilyagi) (2008),0.3805
+268,5988,Quicksilver (1986),0.3695
+269,6379,Wrong Turn (2003),1.6657
+269,1596,Career Girls (1997),1.6197
+269,46578,Little Miss Sunshine (2006),1.4696
+269,4672,"Tall Guy, The (1989)",1.4525
+269,27523,My Sassy Girl (Yeopgijeogin geunyeo) (2001),1.4413
+270,125914,Mortdecai (2015),2.2046
+270,71468,Ink (2009),1.6544
+270,86835,Priest (2011),1.5775
+270,4750,3 Ninjas Knuckle Up (1995),1.5588
+270,123200,Jim Jefferies: I Swear to God (2009),1.5323
+271,1,Toy Story (1995),1.5406
+271,3908,Urban Legends: Final Cut (2000),0.4778
+271,43912,Freedomland (2006),0.3766
+271,5014,I Am Sam (2001),0.3642
+271,4164,"Caveman's Valentine, The (2001)",0.3613
+272,5398,Requiem for a Heavyweight (1962),0.6088
+272,3783,Croupier (1998),0.1661
+272,1323,Amityville 3-D (1983),0.1323
+272,114184,Camp X-Ray (2014),0.1297
+272,1151,Lesson Faust (1994),0.1296
+273,64499,Che: Part One (2008),1.4679
+273,1425,Fierce Creatures (1997),0.2665
+273,66297,Futurama: Into the Wild Green Yonder (2009),0.2663
+273,6765,Under the Tuscan Sun (2003),0.2632
+273,1947,West Side Story (1961),0.2623
+274,156675,Project X (1968),2.1049
+274,69131,Killshot (2008),1.5431
+274,235,Ed Wood (1994),1.4935
+274,1207,To Kill a Mockingbird (1962),1.4717
+274,145839,Concussion (2015),1.3357
+275,123947,Cake (2014),1.6709
+275,32587,Sin City (2005),0.4243
+275,4580,Cyborg (1989),0.3883
+275,31553,Double Dragon (1994),0.3784
+275,121097,To Grandmother's House We Go (1992),0.3693
+276,1793,Welcome to Woop-Woop (1997),2.6019
+276,112515,"Babadook, The (2014)",2.0235
+276,92643,Monsieur Lazhar (2011),1.8845
+276,8813,We Don't Live Here Anymore (2004),1.8574
+276,156781,Jimmy Carr: Telling Jokes (2009),1.8573
+277,56367,Juno (2007),2.1072
+277,4591,Erik the Viking (1989),1.6635
+277,4378,Sexy Beast (2000),1.6051
+277,140016,Always Watching: A Marble Hornets Story (2015),1.5853
+277,7766,Throne of Blood (Kumonosu jô) (1957),1.568
+278,1,Toy Story (1995),2.0806
+278,40851,Zathura (2005),0.4901
+278,3519,Force 10 from Navarone (1978),0.471
+278,3086,Babes in Toyland (1934),0.4431
+278,25905,"Miracle of Morgan's Creek, The (1944)",0.4398
+279,7056,"Public Enemy, The (1931)",1.3774
+279,7882,The Plague of the Zombies (1966),1.2817
+279,8577,Comandante (2003),1.2815
+279,151653,Welcome to Happiness (2015),1.2555
+279,328,Tales from the Crypt Presents: Demon Knight (1995),1.1885
+280,8521,Dr. Jekyll and Mr. Hyde (1931),1.6967
+280,4293,Summer Rental (1985),1.6204
+280,26052,Pickpocket (1959),1.5642
+280,3626,8 ½ Women (a.k.a. 8 1/2 Women) (a.k.a. Eight and a Half Women) (1999),1.5599
+280,4634,Penn & Teller Get Killed (1989),1.5568
+281,1,Toy Story (1995),2.1246
+281,5072,Metropolis (2001),0.5732
+281,55207,Cashback (2004),0.5432
+281,115664,The Book of Life (2014),0.5353
+281,835,Foxfire (1996),0.5186
+282,179053,2048: Nowhere to Run (2017),1.545
+282,184053,Battle Planet (2008),1.478
+282,5678,Formula 51 (2001),1.4755
+282,117572,Hit by Lightning (2014),1.4161
+282,133645,Carol (2015),1.3709
+283,6789,"Apartment, The (Appartement, L') (1996)",1.7104
+283,128097,Jim Norton: American Degenerate (2013),1.6035
+283,2482,Still Crazy (1998),1.593
+283,5797,"Company of Wolves, The (1984)",1.5006
+283,7920,Desperate Living (1977),1.4824
+284,1,Toy Story (1995),2.75
+284,109191,Winter's Tale (2014),0.6083
+284,56715,Wristcutters: A Love Story (2006),0.5923
+284,6950,"Missing, The (2003)",0.573
+284,152037,Grease Live (2016),0.5653
+285,1248,Touch of Evil (1958),1.4853
+285,6331,Spellbound (2002),0.3758
+285,4023,"Family Man, The (2000)",0.3546
+285,94494,96 Minutes (2011) ,0.3465
+285,60832,Pathology (2008),0.3293
+286,1,Toy Story (1995),2.5632
+286,82848,One Week (1920),0.6024
+286,61465,Bangkok Dangerous (2008),0.4846
+286,484,Lassie (1994),0.4734
+286,8275,College (1927),0.4632
+287,1,Toy Story (1995),2.4708
+287,129011,Eddie Izzard: Glorious (1997),0.5935
+287,6986,Ben-Hur: A Tale of the Christ (1925),0.5866
+287,579,"Escort, The (Scorta, La) (1993)",0.564
+287,3760,"Kentucky Fried Movie, The (1977)",0.546
+288,102,Mr. Wrong (1996),1.62
+288,110730,Transcendence (2014),1.5892
+288,3315,Happy Go Lovely (1951),1.5423
+288,4581,Dad (1989),1.4921
+288,161024,Jim Jefferies: Freedumb (2016),1.4608
+289,1,Toy Story (1995),1.993
+289,31260,Boys Town (1938),0.6831
+289,175485,Death Note (2017),0.5044
+289,2013,"Poseidon Adventure, The (1972)",0.5009
+289,157865,Ratchet & Clank (2016),0.4875
+290,52283,"Reaping, The (2007)",1.2719
+290,1083,"Great Race, The (1965)",1.2647
+290,2420,"Karate Kid, The (1984)",1.2499
+290,1503,8 Heads in a Duffel Bag (1997),1.2435
+290,1980,Friday the 13th Part VII: The New Blood (1988),1.2389
+291,8511,"Immigrant, The (1917)",0.2335
+291,74530,Percy Jackson & the Olympians: The Lightning Thief (2010),0.1295
+291,7025,"Midnight Clear, A (1992)",0.1159
+291,44555,"Lives of Others, The (Das leben der Anderen) (2006)",0.0913
+291,92192,Apollo 18 (2011),0.0817
+292,96530,Conception (2011),1.6188
+292,899,Singin' in the Rain (1952),1.5836
+292,3396,"Muppet Movie, The (1979)",1.5708
+292,3251,Agnes of God (1985),1.5705
+292,74750,[REC]² (2009),1.4662
+293,1733,Afterglow (1997),1.4232
+293,48142,"Black Dahlia, The (2006)",1.3969
+293,880,"Island of Dr. Moreau, The (1996)",1.3686
+293,531,"Secret Garden, The (1993)",1.3327
+293,4061,The Man in the Moon (1991),1.3269
+294,1,Toy Story (1995),3.5799
+294,133712,Office Romance (1977),0.7576
+294,51939,TMNT (Teenage Mutant Ninja Turtles) (2007),0.7225
+294,131934,The Malibu Bikini Shop (1986),0.7087
+294,61697,Righteous Kill (2008),0.6817
+295,1,Toy Story (1995),0.6517
+295,4821,Joy Ride (2001),0.2115
+295,63876,Milk (2008),0.2071
+295,47894,"Wind That Shakes the Barley, The (2006)",0.1821
+295,26713,Days of Being Wild (A Fei jingjyuhn) (1990),0.1813
+296,1,Toy Story (1995),1.8409
+296,27905,Casshern (2004),0.4105
+296,45672,Click (2006),0.3845
+296,5786,Paid in Full (2002),0.3661
+296,4445,T-Rex: Back to the Cretaceous (1998),0.3655
+297,1,Toy Story (1995),0.5387
+297,172497,T2 3-D: Battle Across Time (1996),0.1214
+297,38798,In Her Shoes (2005),0.1201
+297,104863,What If (2013),0.1101
+297,108981,Nymphomaniac: Volume II (2013),0.1077
+298,2337,Velvet Goldmine (1998),0.6476
+298,1409,Michael (1996),0.6111
+298,2007,Polish Wedding (1998),0.5955
+298,7327,Persona (1966),0.591
+298,7297,Kitchen Stories (Salmer fra kjøkkenet) (2003),0.5502
+299,1,Toy Story (1995),1.4053
+299,1238,Local Hero (1983),0.3065
+299,71252,"Final Destination, The (Final Destination 4) (Final Destination in 3-D, The) (2009)",0.2938
+299,8588,Killing Me Softly (2002),0.2843
+299,141646,The Unauthorized Saved by the Bell Story (2014),0.2838
+300,1,Toy Story (1995),0.519
+300,2021,Dune (1984),0.1746
+300,8809,Danny Deckchair (2003),0.1616
+300,5785,Jackass: The Movie (2002),0.1382
+300,5699,Tom Horn (1980),0.1374
+301,1,Toy Story (1995),2.0186
+301,140301,The Escort (2015),0.486
+301,51314,Golden Door (Nuovomondo) (2006),0.4751
+301,106540,Delivery Man (2013),0.4698
+301,26317,Emmanuelle (1974),0.4593
+302,1,Toy Story (1995),1.3462
+302,3559,Limelight (1952),0.2708
+302,5324,Life or Something Like It (2002),0.2668
+302,1718,Stranger in the House (1997),0.2612
+302,1032,Alice in Wonderland (1951),0.2488
+303,1,Toy Story (1995),1.4343
+303,6184,"Man Who Fell to Earth, The (1976)",0.3673
+303,69654,Prison Break: The Final Break (2009),0.3529
+303,2109,"Jerk, The (1979)",0.3196
+303,4777,"American Astronaut, The (2001)",0.3161
+304,170,Hackers (1995),2.0805
+304,3130,Bonfire of the Vanities (1990),1.8087
+304,2868,Fright Night Part II (1988),1.6448
+304,139994,Fracchia contro Dracula (1985),1.5537
+304,60471,Rogue (2007),1.5454
+305,1,Toy Story (1995),1.8025
+305,2374,Gung Ho (1986),0.4547
+305,6769,Mambo Italiano (2003),0.4522
+305,3506,North Dallas Forty (1979),0.424
+305,2291,Edward Scissorhands (1990),0.417
+306,1,Toy Story (1995),4.6799
+306,93805,Iron Sky (2012),1.0163
+306,842,Tales from the Crypt Presents: Bordello of Blood (1996),0.9887
+306,6385,Whale Rider (2002),0.9883
+306,5064,The Count of Monte Cristo (2002),0.9667
+307,946,To Be or Not to Be (1942),3.0713
+307,4572,Black Rain (1989),0.606
+307,302,"Queen Margot (Reine Margot, La) (1994)",0.5911
+307,153386,Long Live Ghosts! (1977),0.5192
+307,949,East of Eden (1955),0.3896
+308,1281,"Great Dictator, The (1940)",1.6929
+308,1388,Jaws 2 (1978),0.3478
+308,8967,Seed of Chucky (Child's Play 5) (2004),0.3351
+308,553,Tombstone (1993),0.2197
+308,2448,Virus (1999),0.2148
+309,1,Toy Story (1995),1.1119
+309,54617,"Brice Man, The (Brice de Nice) (2005)",0.3346
+309,1036,Die Hard (1988),0.3069
+309,8977,Alexander (2004),0.2941
+309,3957,Billy Jack (1971),0.2851
+310,1,Toy Story (1995),3.2203
+310,71147,Death of a Cyclist (Muerte de un ciclista) (1955),0.6758
+310,725,"Great White Hype, The (1996)",0.6266
+310,3997,Dungeons & Dragons (2000),0.6023
+310,3261,Singles (1992),0.5992
+311,1,Toy Story (1995),2.672
+311,37495,Survive Style 5+ (2004),0.5364
+311,71254,Gamer (2009),0.5112
+311,1857,"Real Blonde, The (1997)",0.5003
+311,3398,"Muppets Take Manhattan, The (1984)",0.4945
+312,1,Toy Story (1995),1.743
+312,5883,They (2002),0.3481
+312,135861,Ted 2 (2015),0.3292
+312,60293,"Wackness, The (2008)",0.3205
+312,8783,"Village, The (2004)",0.309
+313,37211,Go West (1940),0.7445
+313,1253,"Day the Earth Stood Still, The (1951)",0.207
+313,1412,Some Mother's Son (1996),0.1971
+313,4255,Freddy Got Fingered (2001),0.1857
+313,6197,Spider (2002),0.1839
+314,167296,Iron Man (1931),1.6592
+314,59429,American Pie Presents Beta House (American Pie 6: Beta House) (2007),1.6209
+314,5540,Clash of the Titans (1981),1.5517
+314,27644,Remember Me (Ricordati di me) (2003),1.492
+314,91784,Girl Walks Into a Bar (2011),1.4235
+315,1,Toy Story (1995),1.7428
+315,55765,American Gangster (2007),0.4758
+315,258,"Kid in King Arthur's Court, A (1995)",0.4561
+315,49772,"Painted Veil, The (2006)",0.437
+315,110330,Me and you (io e te) (2012),0.4318
+316,108949,"Art of the Steal, The (2013)",0.8909
+316,4394,Beach Blanket Bingo (1965),0.189
+316,5443,Juwanna Mann (2002),0.1792
+316,1257,Better Off Dead... (1985),0.1708
+316,1,Toy Story (1995),0.1684
+317,1,Toy Story (1995),0.7886
+317,2697,My Son the Fanatic (1997),0.213
+317,167296,Iron Man (1931),0.2128
+317,1954,Rocky (1976),0.2039
+317,58103,Vantage Point (2008),0.1858
+318,1,Toy Story (1995),2.2415
+318,6723,Once Upon a Time in China III (Wong Fei-hung tsi sam: Siwong tsangba) (1993),0.6096
+318,27822,Open Water (2003),0.6096
+318,1332,"Believers, The (1987)",0.6006
+318,2491,Simply Irresistible (1999),0.5794
+319,1,Toy Story (1995),3.1165
+319,3363,American Graffiti (1973),0.7195
+319,2594,Open Your Eyes (Abre los ojos) (1997),0.7126
+319,6116,"Pirate Movie, The (1982)",0.6789
+319,4152,Vatel (2000),0.6718
+320,1,Toy Story (1995),2.9114
+320,2342,Hard Core Logo (1996),0.7621
+320,5847,Ragtime (1981),0.5471
+320,120637,Blackhat (2015),0.5453
+320,187595,Solo: A Star Wars Story (2018),0.5432
+321,1,Toy Story (1995),3.0754
+321,166705,Fences (2016),0.6527
+321,66090,Eden Lake (2008),0.6398
+321,26133,"Charlie Brown Christmas, A (1965)",0.5926
+321,7056,"Public Enemy, The (1931)",0.5394
+322,26838,"Snapper, The (1993)",1.4848
+322,105325,Bad Milo (Bad Milo!) (2013),1.4763
+322,2901,Phantasm (1979),1.402
+322,100737,Snitch (2013),1.3352
+322,2534,Avalanche (1978),1.2987
+323,2769,"Yards, The (2000)",2.3892
+323,193585,Flint (2017),0.4874
+323,5802,"World of Henry Orient, The (1964)",0.4733
+323,3965,"Strange Love of Martha Ivers, The (1946)",0.4576
+323,210,Wild Bill (1995),0.4479
+324,1,Toy Story (1995),2.6264
+324,4034,Traffic (2000),0.5331
+324,26871,My Father the Hero (1994),0.4821
+324,2966,"Straight Story, The (1999)",0.4676
+324,367,"Mask, The (1994)",0.4594
+325,6407,"Walk, Don't Run (1966)",1.6328
+325,85295,Scooby-Doo! Curse of the Lake Monster (2010),0.383
+325,1857,"Real Blonde, The (1997)",0.3707
+325,3738,"Sugarland Express, The (1974)",0.3457
+325,141844,12 Chairs (1971),0.3441
+326,1,Toy Story (1995),0.7707
+326,133782,Maggie (2015),0.2179
+326,283,New Jersey Drive (1995),0.2154
+326,152173,Michael Jackson's Thriller (1983),0.1893
+326,166635,Passengers (2016),0.173
+327,1,Toy Story (1995),3.0132
+327,27695,Nicotina (2003),0.6351
+327,7058,Life with Father (1947),0.6063
+327,1516,Children of the Revolution (1996),0.6046
+327,95497,Dragon Ball Z: Super Android 13! (Doragon bôru Z 7: Kyokugen batoru!! San dai sûpâ saiyajin) (1992),0.6044
+328,5838,Madame Bovary (1991),2.6692
+328,4711,Theremin: An Electronic Odyssey (1993),1.9487
+328,1565,Head Above Water (1996),1.8676
+328,50274,Venus (2006),1.8309
+328,4836,"Competition, The (1980)",1.7112
+329,1,Toy Story (1995),2.0174
+329,73266,Youth in Revolt (2009),0.4207
+329,114180,"Maze Runner, The (2014)",0.3784
+329,1973,"Freddy's Dead: The Final Nightmare (Nightmare on Elm Street Part 6: Freddy's Dead, A) (1991)",0.3626
+329,2295,"Impostors, The (1998)",0.3551
+330,4334,Yi Yi (2000),1.6695
+330,2161,"NeverEnding Story, The (1984)",1.5613
+330,64,Two if by Sea (1996),1.5549
+330,188797,Tag (2018),1.4968
+330,85354,Mesrine: Public Enemy #1 (L'ennemi public n°1) (2008),1.4856
+331,44193,She's the Man (2006),1.4935
+331,54787,Death Sentence (2007),0.2811
+331,3705,Bird on a Wire (1990),0.2773
+331,2717,Ghostbusters II (1989),0.2769
+331,4117,Hope and Glory (1987),0.2762
+332,80693,It's Kind of a Funny Story (2010),1.4218
+332,90469,Paranormal Activity 3 (2011),1.4215
+332,51933,Pride (2007),1.4045
+332,1552,Con Air (1997),1.3221
+332,27075,Addams Family Reunion (1998),1.2822
+333,1,Toy Story (1995),1.8891
+333,3468,"Hustler, The (1961)",0.3771
+333,1377,Batman Returns (1992),0.3708
+333,2070,Tender Mercies (1983),0.3316
+333,6375,Gigantic (A Tale of Two Johns) (2002),0.3258
+334,3985,"Eagle Has Landed, The (1976)",1.9929
+334,127136,True Story (2015),1.777
+334,51086,"Number 23, The (2007)",1.6635
+334,71252,"Final Destination, The (Final Destination 4) (Final Destination in 3-D, The) (2009)",1.6516
+334,7982,"Tale of Two Sisters, A (Janghwa, Hongryeon) (2003)",1.6275
+335,1,Toy Story (1995),1.6811
+335,89837,Kill List (2011),0.3995
+335,57147,Cassandra's Dream (2007),0.376
+335,8024,"Thing Called Love, The (1993)",0.373
+335,963,"Inspector General, The (1949)",0.3701
+336,90249,Real Steel (2011),1.5278
+336,93838,The Raid: Redemption (2011),1.4024
+336,3099,Shampoo (1975),1.3015
+336,107462,Ninja: Shadow of a Tear (2013),1.2537
+336,42009,Cheaper by the Dozen 2 (2005),1.1493
+337,5847,Ragtime (1981),1.6573
+337,6193,Poolhall Junkies (2002),1.4768
+337,4932,Dressed to Kill (1980),1.4075
+337,461,Go Fish (1994),1.3742
+337,5792,Roger Dodger (2002),1.3634
+338,1,Toy Story (1995),0.8081
+338,2846,"Adventures of Milo and Otis, The (Koneko monogatari) (1986)",0.2796
+338,1382,Marked for Death (1990),0.2333
+338,6782,Leningrad Cowboys Go America (1989),0.2246
+338,1971,"Nightmare on Elm Street 4: The Dream Master, A (1988)",0.2173
+339,124853,Why Man Creates (1968),1.9528
+339,110771,"Other Woman, The (2014)",1.4552
+339,3344,Blood Feast (1963),1.4491
+339,3571,Time Code (2000),1.4469
+339,310,Rent-a-Kid (1995),1.3486
+340,1,Toy Story (1995),1.4638
+340,27768,Intimate Strangers (Confidences trop intimes) (2004),0.3194
+340,69,Friday (1995),0.3172
+340,2418,Nothing in Common (1986),0.3139
+340,3430,Death Wish (1974),0.3097
+341,326,To Live (Huozhe) (1994),1.7265
+341,121253,The Town that Dreaded Sundown (2014),1.6873
+341,4946,"Eye for an Eye, An (1981)",1.65
+341,109487,Interstellar (2014),1.6206
+341,1584,Contact (1997),1.5988
+342,1,Toy Story (1995),2.8488
+342,34523,The Chumscrubber (2005),0.5451
+342,86345,Louis C.K.: Hilarious (2010),0.5325
+342,40491,"Match Factory Girl, The (Tulitikkutehtaan tyttö) (1990)",0.5292
+342,59026,99 francs (2007),0.4972
+343,1,Toy Story (1995),2.3475
+343,451,Flesh and Bone (1993),0.4789
+343,8730,To End All Wars (2001),0.4662
+343,5796,Casino Royale (1967),0.451
+343,605,One Fine Day (1996),0.4362
+344,1,Toy Story (1995),2.8837
+344,128089,Kevin Hart: I'm a Grown Little Man (2009),0.622
+344,45501,"Break-Up, The (2006)",0.592
+344,2607,Get Real (1998),0.5188
+344,3791,Footloose (1984),0.4135
+345,63992,Twilight (2008),3.1898
+345,27328,Monday (2000),0.8641
+345,99106,"Guilt Trip, The (2012)",0.7847
+345,135143,Fantastic Beasts and Where to Find Them (2016),0.7255
+345,84944,Rango (2011),0.6801
+346,1,Toy Story (1995),0.7877
+346,37844,Roll Bounce (2005),0.2355
+346,80,"White Balloon, The (Badkonake sefid) (1995)",0.235
+346,90531,Shame (2011),0.2261
+346,174479,Unedited Footage of a Bear (2014),0.1983
+347,89580,Neds (2010),1.946
+347,6232,Born Free (1966),1.837
+347,8302,"Front Page, The (1931)",1.6473
+347,2962,Fever Pitch (1997),1.6174
+347,72874,"Peacekeeper, The (1997)",1.5711
+348,1,Toy Story (1995),1.2081
+348,6350,Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986),0.5185
+348,187593,Deadpool 2 (2018),0.3406
+348,100068,Comme un chef (2012),0.3348
+348,59014,Superhero Movie (2008),0.3275
+349,1,Toy Story (1995),2.5048
+349,2942,Flashdance (1983),0.4947
+349,445,Fatal Instinct (1993),0.4935
+349,97,"Hate (Haine, La) (1995)",0.4708
+349,86142,13 Assassins (Jûsan-nin no shikaku) (2010),0.4685
+350,3811,Breaker Morant (1980),1.8177
+350,135861,Ted 2 (2015),1.759
+350,95771,Dragon Ball Z: Broly Second Coming (Doragon bôru Z 10: Kiken na futari! Sûpâ senshi wa nemurenai) (1994),1.6795
+350,92637,Pitfall (Otoshiana) (1962),1.6753
+350,76763,"Runaways, The (2010)",1.6376
+351,1,Toy Story (1995),1.0674
+351,1840,He Got Game (1998),0.2648
+351,4945,"Enforcer, The (1976)",0.2593
+351,102747,"Rink, The (1916)",0.2563
+351,62081,Eagle Eye (2008),0.2558
+352,1,Toy Story (1995),1.9615
+352,553,Tombstone (1993),0.6129
+352,168090,Kizumonogatari II: Passionate Blood (2016),0.4042
+352,4229,Say It Isn't So (2001),0.3873
+352,39234,North Country (2005),0.3772
+353,33294,Vampire Hunter D (1985),1.4608
+353,4042,"Alamo, The (1960)",1.3869
+353,78836,Enter the Void (2009),1.3697
+353,6660,"Red Shoes, The (1948)",1.3403
+353,106594,Red Flag (2012),1.3351
+354,1,Toy Story (1995),1.6533
+354,3901,Duets (2000),0.4605
+354,6593,Freaky Friday (2003),0.451
+354,71899,Mary and Max (2009),0.4368
+354,151745,Reptilicus (1961),0.4161
+355,1994,Poltergeist (1982),0.5256
+355,83270,Made in Dagenham (2010),0.156
+355,7027,Silverado (1985),0.1193
+355,136816,Bad Asses on the Bayou (2015),0.11
+355,5507,xXx (2002),0.1089
+356,1,Toy Story (1995),2.5065
+356,72308,Battlestar Galactica: The Plan (2009),0.5894
+356,103543,"Lifeguard, The (2013)",0.5785
+356,159779,A Midsummer Night's Dream (2016),0.56
+356,118896,Mommy (2014),0.5325
+357,52287,Meet the Robinsons (2007),1.6928
+357,1432,Metro (1997),1.5569
+357,3194,"Way We Were, The (1973)",1.5521
+357,4467,"Adventures of Baron Munchausen, The (1988)",1.5275
+357,5507,xXx (2002),1.5197
+358,1,Toy Story (1995),1.9544
+358,1895,Can't Hardly Wait (1998),0.3389
+358,73042,Alvin and the Chipmunks: The Squeakquel (2009),0.3361
+358,5449,Mr. Deeds (2002),0.336
+358,160872,Satanic (2016),0.3197
+359,99,Heidi Fleiss: Hollywood Madam (1995),1.5432
+359,2170,Wrongfully Accused (1998),1.5392
+359,5694,Staying Alive (1983),1.4373
+359,96964,"Tall Man, The (2012)",1.3643
+359,351,"Corrina, Corrina (1994)",1.2513
+360,1,Toy Story (1995),0.6294
+360,93721,Jiro Dreams of Sushi (2011),0.1551
+360,88812,30 Minutes or Less (2011),0.1462
+360,2355,"Bug's Life, A (1998)",0.1445
+360,4218,River's Edge (1986),0.1445
+361,34359,Georgy Girl (1966),1.2599
+361,90384,Behind Enemy Lines II: Axis of Evil (2006),0.4491
+361,434,Cliffhanger (1993),0.3221
+361,81417,Paranormal Activity 2 (2010),0.3145
+361,134881,Love & Mercy (2014),0.3131
+362,1,Toy Story (1995),1.0885
+362,55067,Requiem (2006),0.3136
+362,161580,Bad Moms (2016),0.3105
+362,168418,The Boss Baby (2017),0.2856
+362,109191,Winter's Tale (2014),0.2849
+363,1,Toy Story (1995),2.5864
+363,5049,48 Hrs. (1982),0.5888
+363,190,Safe (1995),0.5706
+363,8132,Gladiator (1992),0.5178
+363,114554,"Tale of Princess Kaguya, The (Kaguyahime no monogatari) (2013)",0.5135
+364,1016,"Shaggy Dog, The (1959)",1.4353
+364,188675,Dogman (2018),1.4235
+364,202,Total Eclipse (1995),1.4186
+364,36477,"Baxter, The (2005)",1.4041
+364,588,Aladdin (1992),1.3327
+365,1,Toy Story (1995),3.1011
+365,89281,Birdemic: Shock and Terror (2010),0.6714
+365,3628,Flying Tigers (1942),0.6541
+365,159717,The Fundamentals of Caring (2016),0.6206
+365,89118,"Skin I Live In, The (La piel que habito) (2011)",0.6003
+366,1,Toy Story (1995),1.3398
+366,5116,Designing Woman (1957),0.4947
+366,747,"Stupids, The (1996)",0.3512
+366,80463,"Social Network, The (2010)",0.3456
+366,3441,Red Dawn (1984),0.3373
+367,8372,Garfield: The Movie (2004),1.7072
+367,6776,Lagaan: Once Upon a Time in India (2001),1.5992
+367,2759,Dick (1999),1.5689
+367,131104,The Brain (1969),1.5566
+367,5065,"Mothman Prophecies, The (2002)",1.5471
+368,54785,Halloween (2007),0.2479
+368,2790,"Final Conflict, The (a.k.a. Omen III: The Final Conflict) (1981)",0.1168
+368,79677,"Two Escobars, The (2010)",0.0999
+368,33779,Eddie Izzard: Dress to Kill (1999),0.0977
+368,152270,The Wait (2015),0.0936
+369,1,Toy Story (1995),2.8479
+369,2771,Brokedown Palace (1999),0.5844
+369,5889,"Cruel Romance, A (Zhestokij Romans) (1984)",0.5793
+369,174141,Belladonna of Sadness (1973),0.5747
+369,165075,London Town (2016),0.4177
+370,1,Toy Story (1995),3.3588
+370,1310,Hype! (1996),0.5356
+370,31973,Germany Year Zero (Germania anno zero) (Deutschland im Jahre Null) (1948),0.5218
+370,58047,"Definitely, Maybe (2008)",0.5065
+370,1263,"Deer Hunter, The (1978)",0.505
+371,1,Toy Story (1995),3.0415
+371,45210,United 93 (2006),0.8104
+371,6031,Imitation of Life (1959),0.7401
+371,71135,Pandorum (2009),0.7291
+371,136778,The Squeeze (2015),0.6655
+372,477,What's Love Got to Do with It? (1993),1.4451
+372,4519,"Land Before Time, The (1988)",1.4264
+372,33836,Bewitched (2005),1.2673
+372,110669,"Honest Liar, An (2014)",1.2669
+372,8484,"Human Condition I, The (Ningen no joken I) (1959)",1.2616
+373,1036,Die Hard (1988),1.4864
+373,4310,Pearl Harbor (2001),1.4447
+373,108190,Divergent (2014),1.3747
+373,90405,In Time (2011),1.3704
+373,1366,"Crucible, The (1996)",1.3635
+374,1,Toy Story (1995),2.3107
+374,1355,Nightwatch (1997),0.5182
+374,33660,Cinderella Man (2005),0.4945
+374,52281,Grindhouse (2007),0.4883
+374,1281,"Great Dictator, The (1940)",0.4831
+375,1,Toy Story (1995),2.248
+375,1197,"Princess Bride, The (1987)",0.5516
+375,8157,Jin Roh: The Wolf Brigade (Jin-Rô) (1998),0.5241
+375,44972,Scary Movie 4 (2006),0.522
+375,27320,"Nine Lives of Tomas Katz, The (2000)",0.4974
+376,1,Toy Story (1995),2.6051
+376,89028,Don't Be Afraid of the Dark (2010),0.5322
+376,2165,Your Friends and Neighbors (1998),0.5198
+376,4357,How to Marry a Millionaire (1953),0.515
+376,190207,Tilt (2011),0.5111
+377,1,Toy Story (1995),3.1072
+377,64993,5 Centimeters per Second (Byôsoku 5 senchimêtoru) (2007),0.6241
+377,27176,Style Wars (1983),0.5942
+377,4865,From Hell (2001),0.5932
+377,34148,"Beat That My Heart Skipped, The (battre mon coeur s'est arrêté, De) (2005)",0.5764
+378,1685,"I Love You, I Love You Not (1996)",1.5878
+378,46,How to Make an American Quilt (1995),1.4873
+378,4402,Dr. Goldfoot and the Bikini Machine (1965),1.4382
+378,6523,Mr. Baseball (1992),1.4118
+378,2882,Jakob the Liar (1999),1.4103
+379,1,Toy Story (1995),1.8146
+379,1529,Nowhere (1997),0.5693
+379,27674,11:14 (2003),0.4129
+379,8154,"Dolce Vita, La (1960)",0.4096
+379,593,"Silence of the Lambs, The (1991)",0.3975
+380,5878,Talk to Her (Hable con Ella) (2002),1.6255
+380,45658,On a Clear Day (2005),1.5891
+380,6305,Fahrenheit 451 (1966),1.5209
+380,708,"Truth About Cats & Dogs, The (1996)",1.4988
+380,7579,Pride and Prejudice (1940),1.4492
+381,3587,Inferno (1980),1.7916
+381,95163,Dragon Ball: Mystical Adventure (Doragon bôru: Makafushigi dai bôken) (1988),1.7616
+381,82242,Rare Exports: A Christmas Tale (Rare Exports) (2010),1.7156
+381,6182,"Thrill of It All, The (1963)",1.6142
+381,4831,Can't Stop the Music (1980),1.6133
+382,7930,"People Under the Stairs, The (1991)",1.1078
+382,7116,Diabolique (Les diaboliques) (1955),0.2519
+382,8908,Ladder 49 (2004),0.2474
+382,6769,Mambo Italiano (2003),0.241
+382,60303,Strange Circus (Kimyô na sâkasu) (2005),0.2401
+383,86833,Bridesmaids (2011),1.1064
+383,157270,Barbershop: The Next Cut (2016),0.2277
+383,6863,School of Rock (2003),0.2209
+383,74324,Temple Grandin (2010),0.2109
+383,57669,In Bruges (2008),0.2063
+384,1,Toy Story (1995),1.9355
+384,6746,Squirm (1976),0.563
+384,160565,The Purge: Election Year (2016),0.5385
+384,110826,Brick Mansions (2014),0.5019
+384,127202,Me and Earl and the Dying Girl (2015),0.4944
+385,4765,L.I.E. (2001),1.8632
+385,72874,"Peacekeeper, The (1997)",1.6971
+385,31660,Steamboy (Suchîmubôi) (2004),1.619
+385,5764,Looker (1981),1.485
+385,146656,Creed (2015),1.423
+386,1,Toy Story (1995),1.6563
+386,7366,Jersey Girl (2004),0.4092
+386,1374,Star Trek II: The Wrath of Khan (1982),0.4085
+386,99532,"Misérables, Les (2000)",0.3895
+386,77191,Death at a Funeral (2010),0.387
+387,1,Toy Story (1995),2.7003
+387,117849,La Belle Verte (1996),0.4773
+387,81949,"Romantics, The (2010)",0.4694
+387,135137,Pixels (2015),0.4573
+387,1257,Better Off Dead... (1985),0.4462
+388,1,Toy Story (1995),5.6565
+388,92309,"Innkeepers, The (2011)",1.2806
+388,6582,Remo Williams: The Adventure Begins (1985),1.0838
+388,3433,Death Wish 4: The Crackdown (1987),1.0726
+388,2890,Three Kings (1999),0.9728
+389,8591,"Philadelphia Experiment, The (1984)",2.3945
+389,33188,Mischief (1985),0.4879
+389,4855,Dirty Harry (1971),0.4608
+389,720,Wallace & Gromit: The Best of Aardman Animation (1996),0.4437
+389,136297,Mortal Kombat: The Journey Begins (1995),0.4415
+390,1,Toy Story (1995),1.5191
+390,115111,Ward 13 (2003),0.3513
+390,7811,Babylon 5: The River of Souls (1998),0.329
+390,135288,Mr. Holmes (2015),0.3281
+390,3596,Screwed (2000),0.3216
+391,42734,Hoodwinked! (2005),1.6694
+391,548,Terminal Velocity (1994),0.2878
+391,7132,"Night at the Opera, A (1935)",0.2826
+391,27619,"Lion King 1½, The (2004)",0.274
+391,5900,Analyze That (2002),0.258
+392,1,Toy Story (1995),2.5402
+392,1614,In & Out (1997),0.6017
+392,104419,Justice League: Crisis on Two Earths (2010),0.5564
+392,89582,Cold Fish (Tsumetai nettaigyo) (2010),0.5126
+392,102747,"Rink, The (1916)",0.4981
+393,1,Toy Story (1995),2.0
+393,249,Immortal Beloved (1994),0.4103
+393,1003,Extreme Measures (1996),0.3725
+393,2898,"Dark Half, The (1993)",0.3702
+393,2088,Popeye (1980),0.351
+394,1,Toy Story (1995),1.8856
+394,3365,"Searchers, The (1956)",0.4119
+394,3035,Mister Roberts (1955),0.3956
+394,4585,"Dream Team, The (1989)",0.3897
+394,33310,"Common Thread, A (a.k.a. Sequins) (Brodeuses) (2004)",0.3892
+395,1,Toy Story (1995),4.1057
+395,3438,Teenage Mutant Ninja Turtles (1990),0.7839
+395,174045,Goon: Last of the Enforcers (2017),0.7825
+395,3695,"Toxic Avenger Part III: The Last Temptation of Toxie, The (1989)",0.7448
+395,8157,Jin Roh: The Wolf Brigade (Jin-Rô) (1998),0.7435
+396,58806,Smart People (2008),2.5398
+396,435,Coneheads (1993),0.6396
+396,3730,"Conversation, The (1974)",0.6309
+396,6433,"Man with the Movie Camera, The (Chelovek s kino-apparatom) (1929)",0.5777
+396,5984,"Story of O, The (Histoire d'O) (1975)",0.577
+397,1,Toy Story (1995),1.1476
+397,6286,"Man Without a Past, The (Mies vailla menneisyyttä) (2002)",0.4127
+397,3266,Man Bites Dog (C'est arrivé près de chez vous) (1992),0.3362
+397,1831,Lost in Space (1998),0.3015
+397,2054,"Honey, I Shrunk the Kids (1989)",0.3012
+398,1,Toy Story (1995),4.3417
+398,1674,Witness (1985),0.8896
+398,26073,"Human Condition III, The (Ningen no joken III) (1961)",0.8151
+398,7720,"Four Musketeers, The (1974)",0.8044
+398,1977,Friday the 13th Part IV: The Final Chapter (1984),0.8037
+399,1105,Children of the Corn IV: The Gathering (1996),1.6994
+399,56607,"Kite Runner, The (2007)",1.6776
+399,6573,Avanti! (1972),1.6373
+399,2942,Flashdance (1983),1.5941
+399,5572,Barbershop (2002),1.5723
+400,1,Toy Story (1995),1.7788
+400,48783,Flags of Our Fathers (2006),0.3651
+400,39449,Prime (2005),0.3298
+400,76251,Kick-Ass (2010),0.3251
+400,109416,Bring It On: Fight to the Finish (2009),0.3251
+401,41285,Match Point (2005),3.1961
+401,8293,Used People (1992),2.0771
+401,6711,Lost in Translation (2003),2.0237
+401,2463,Ruthless People (1986),2.0136
+401,5991,Chicago (2002),2.0116
+402,1,Toy Story (1995),2.444
+402,3732,"Fury, The (1978)",0.4324
+402,82088,Vincent Wants to Sea (Vincent will meer) (2010),0.404
+402,5171,"Time Machine, The (2002)",0.3979
+402,31851,Sons of the Desert (1933),0.3959
+403,1,Toy Story (1995),1.6504
+403,90403,"Three Musketeers, The (2011)",0.3936
+403,6093,"Last Unicorn, The (1982)",0.3728
+403,130087,The Cobbler (2015),0.3278
+403,58876,Stop-Loss (2008),0.3227
+404,1,Toy Story (1995),1.3542
+404,7307,Flesh & Blood (1985),0.3671
+404,91688,Salvation Boulevard (2011),0.3409
+404,139511,Exte: Hair Extensions (2007),0.3322
+404,8338,Black Narcissus (1947),0.3228
+405,1,Toy Story (1995),1.4166
+405,553,Tombstone (1993),0.3281
+405,3755,"Perfect Storm, The (2000)",0.2754
+405,70663,"I Love You, Beth Cooper (2009)",0.2672
+405,26237,Zabriskie Point (1970),0.2662
+406,1,Toy Story (1995),3.116
+406,1889,Insomnia (1997),0.9602
+406,107846,MacGyver: Trail to Doomsday (1994),0.9006
+406,1246,Dead Poets Society (1989),0.6715
+406,163056,Shin Godzilla (2016),0.6376
+407,102735,Captain America (1979),2.2221
+407,2928,"Razor's Edge, The (1984)",0.5117
+407,4967,No Man's Land (2001),0.507
+407,31086,Battles Without Honor & Humanity (Jingi naki tatakai) (1973),0.4874
+407,4403,"Fall of the House of Usher, The (House of Usher) (1960)",0.4575
+408,1,Toy Story (1995),2.531
+408,1336,Body Parts (1991),0.5459
+408,186587,Rampage (2018),0.5407
+408,56801,AVPR: Aliens vs. Predator - Requiem (2007),0.5252
+408,56921,Battlestar Galactica: Razor (2007),0.5158
+409,1,Toy Story (1995),3.1423
+409,27523,My Sassy Girl (Yeopgijeogin geunyeo) (2001),0.5298
+409,6070,Tokyo Decadence (Topâzu) (1992),0.5213
+409,55061,Electroma (2006),0.5172
+409,92391,Grave Encounters (2011),0.5038
+410,1,Toy Story (1995),1.928
+410,145,Bad Boys (1995),0.4571
+410,1393,Jerry Maguire (1996),0.3958
+410,2893,Plunkett & MaCleane (1999),0.3763
+410,7124,Grass (1999),0.3651
+411,8667,A Home at the End of the World (2004),1.4665
+411,3971,"Private Eyes, The (1981)",1.4457
+411,64032,Four Christmases (2008),1.3252
+411,2712,Eyes Wide Shut (1999),1.3055
+411,26498,Boy Meets Girl (1984),1.2884
+412,57640,Hellboy II: The Golden Army (2008),0.4861
+412,3591,Mr. Mom (1983),0.4815
+412,1407,Scream (1996),0.4749
+412,103,Unforgettable (1996),0.4684
+412,74580,"Spy Next Door, The (2010)",0.4516
+413,357,Four Weddings and a Funeral (1994),1.3243
+413,3003,Train of Life (Train de vie) (1998),0.3552
+413,25827,Mr. Deeds Goes to Town (1936),0.3472
+413,2995,House on Haunted Hill (1999),0.341
+413,79684,Paper Man (2009),0.3358
+414,6579,"One, Two, Three (1961)",1.4615
+414,7920,Desperate Living (1977),1.3158
+414,305,Ready to Wear (Pret-A-Porter) (1994),1.2366
+414,89427,Shark Night 3D (2011),1.2009
+414,26796,"Heart in Winter, A (Un coeur en hiver) (1992)",1.0188
+415,1,Toy Story (1995),1.324
+415,5969,My Girl 2 (1994),0.3829
+415,7822,Mogambo (1953),0.3537
+415,134095,My Love (2006),0.3181
+415,86835,Priest (2011),0.3075
+416,1,Toy Story (1995),1.868
+416,1952,Midnight Cowboy (1969),0.3379
+416,4690,"Cotton Club, The (1984)",0.3317
+416,168174,Jim Gaffigan: Cinco (2017),0.2965
+416,5464,Road to Perdition (2002),0.2963
+417,1,Toy Story (1995),1.8617
+417,61011,"Walker, The (2007)",0.3593
+417,171495,Cosmos,0.3339
+417,437,Cops and Robbersons (1994),0.3253
+417,3537,Where the Money Is (2000),0.3226
+418,1,Toy Story (1995),1.9983
+418,129,Pie in the Sky (1996),0.4457
+418,103235,"Best Offer, The (Migliore offerta, La) (2013)",0.4183
+418,94478,Dark Shadows (2012),0.4098
+418,8836,Wicker Park (2004),0.398
+419,1,Toy Story (1995),1.0172
+419,2972,Red Sorghum (Hong gao liang) (1987),0.2571
+419,2747,"Little Shop of Horrors, The (1960)",0.2415
+419,77667,MacGruber (2010),0.2339
+419,95633,Spirit Camp (2009),0.2274
+420,3725,American Pop (1981),0.5335
+420,650,Moll Flanders (1996),0.1975
+420,79091,Despicable Me (2010),0.1436
+420,1385,Under Siege (1992),0.1324
+420,119167,Paradox (2010),0.1241
+421,1,Toy Story (1995),1.6457
+421,74508,Persuasion (2007),0.3466
+421,176389,The Nut Job 2: Nutty by Nature (2017),0.3338
+421,6295,Chasing Papi (a.k.a. Papi Chulo) (2003),0.3303
+421,1284,"Big Sleep, The (1946)",0.3259
+422,7238,Ashes and Diamonds (Popiól i diament) (1958),1.4345
+422,96281,ParaNorman (2012),1.4016
+422,6238,Green Card (1990),1.3535
+422,937,Love in the Afternoon (1957),1.3293
+422,50685,Waitress (2007),1.3214
+423,1,Toy Story (1995),2.0372
+423,57502,Cat Soup (Nekojiru-so) (2001),0.3208
+423,7572,Wit (2001),0.316
+423,66509,Funny People (2009),0.3158
+423,99437,John Dies at the End (2012),0.314
+424,1,Toy Story (1995),1.1983
+424,7108,Crime Story (Zhong an zu) (1993),0.2686
+424,803,Walking and Talking (1996),0.2622
+424,6944,Father of the Bride (1991),0.2523
+424,113348,Teenage Mutant Ninja Turtles (2014),0.25
+425,1,Toy Story (1995),2.5272
+425,2453,"Boy Who Could Fly, The (1986)",0.7519
+425,8363,Soul Plane (2004),0.5007
+425,43914,Winter Passing (2005),0.4973
+425,3789,"Pawnbroker, The (1964)",0.473
+426,1,Toy Story (1995),4.5219
+426,8363,Soul Plane (2004),0.898
+426,128908,Cloudburst (2011),0.8699
+426,373,Red Rock West (1992),0.8453
+426,51174,Factory Girl (2006),0.8181
+427,1,Toy Story (1995),0.9395
+427,51167,My Father and My Son (Babam ve oglum) (2005),0.2918
+427,96588,Pitch Perfect (2012),0.2791
+427,8600,Angels with Dirty Faces (1938),0.2784
+427,3256,Patriot Games (1992),0.2688
+428,1,Toy Story (1995),2.9451
+428,28,Persuasion (1995),0.5501
+428,97913,Wreck-It Ralph (2012),0.5373
+428,56908,Dedication (2007),0.5136
+428,56389,My Blueberry Nights (2007),0.5093
+429,1,Toy Story (1995),2.2273
+429,105585,Machete Kills (Machete 2) (2013),0.5076
+429,26249,They Call Me Trinity (1971),0.4811
+429,2296,"Night at the Roxbury, A (1998)",0.4528
+429,55995,Beowulf (2007),0.4516
+430,1,Toy Story (1995),2.4471
+430,2546,"Deep End of the Ocean, The (1999)",0.6518
+430,4164,"Caveman's Valentine, The (2001)",0.6206
+430,81158,Restrepo (2010),0.6069
+430,1954,Rocky (1976),0.5915
+431,1,Toy Story (1995),2.083
+431,149830,Pride and Prejudice and Zombies (2016),0.4095
+431,172793,Vovka in the Kingdom of Far Far Away (1965),0.3964
+431,50601,Bridge to Terabithia (2007),0.386
+431,34148,"Beat That My Heart Skipped, The (battre mon coeur s'est arrêté, De) (2005)",0.3724
+432,1358,Sling Blade (1996),0.3881
+432,3967,Billy Elliot (2000),0.3434
+432,358,Higher Learning (1995),0.3355
+432,5364,Unfaithful (2002),0.3104
+432,106,Nobody Loves Me (Keiner liebt mich) (1994),0.3093
+433,1663,Stripes (1981),0.5327
+433,6669,Ikiru (1952),0.1568
+433,1367,101 Dalmatians (1996),0.1463
+433,90769,Starsuckers (2009),0.1403
+433,111360,Lucy (2014),0.14
+434,6342,"Trip, The (2002)",1.4901
+434,1025,"Sword in the Stone, The (1963)",1.4603
+434,84844,Brother 2 (Brat 2) (2000),1.4277
+434,6775,Life and Debt (2001),1.4102
+434,5993,Max (2002),1.4063
+435,1,Toy Story (1995),1.8335
+435,3988,How the Grinch Stole Christmas (a.k.a. The Grinch) (2000),0.3925
+435,161024,Jim Jefferies: Freedumb (2016),0.3681
+435,37857,MirrorMask (2005),0.3535
+435,7209,"M. Hulot’s Holiday (Mr. Hulot's Holiday) (Vacances de Monsieur Hulot, Les) (1953)",0.3421
+436,4967,No Man's Land (2001),1.931
+436,160565,The Purge: Election Year (2016),1.8523
+436,27768,Intimate Strangers (Confidences trop intimes) (2004),1.7915
+436,1459,Absolute Power (1997),1.7354
+436,3432,Death Wish 3 (1985),1.7208
+437,1,Toy Story (1995),1.2787
+437,179491,Mayhem (2017),0.3462
+437,92008,Haywire (2011),0.3071
+437,2383,Police Academy 6: City Under Siege (1989),0.3071
+437,103772,"Wolverine, The (2013)",0.3048
+438,69526,Transformers: Revenge of the Fallen (2009),1.576
+438,1354,Breaking the Waves (1996),1.4599
+438,207,"Walk in the Clouds, A (1995)",1.4059
+438,2164,Surf Nazis Must Die (1987),1.4013
+438,167064,I Am Not Your Negro (2017),1.3512
+439,1643,"Mrs. Brown (a.k.a. Her Majesty, Mrs. Brown) (1997)",0.8883
+439,6387,Once a Thief (Zong heng si hai) (1991),0.2619
+439,168846,Neal Brennan: 3 Mics (2017),0.2248
+439,194,Smoke (1995),0.2204
+439,113159,Life After Beth (2014),0.2176
+440,150254,The Devil's Candy (2015),0.4559
+440,6996,Highlander II: The Quickening (1991),0.1145
+440,64957,"Curious Case of Benjamin Button, The (2008)",0.1026
+440,121231,It Follows (2014),0.1022
+440,3072,Moonstruck (1987),0.1016
+441,1,Toy Story (1995),3.6084
+441,941,"Mark of Zorro, The (1940)",0.5921
+441,72554,Cell 211 (Celda 211) (2009),0.5819
+441,95,Broken Arrow (1996),0.5807
+441,142196,Cornered! (2009),0.5799
+442,1,Toy Story (1995),0.0
+442,2,Jumanji (1995),0.0
+442,3,Grumpier Old Men (1995),0.0
+442,4,Waiting to Exhale (1995),0.0
+442,5,Father of the Bride Part II (1995),0.0
+443,146244,Dil To Pagal Hai (1997),2.1237
+443,103107,20 Feet from Stardom (Twenty Feet from Stardom) (2013),1.4641
+443,26082,Harakiri (Seppuku) (1962),1.4136
+443,27728,Ghost in the Shell 2: Innocence (a.k.a. Innocence) (Inosensu) (2004),1.3809
+443,63276,Crows Zero (Kurôzu zero) (2007),1.3692
+444,3420,...And Justice for All (1979),2.7327
+444,4361,Tootsie (1982),0.5569
+444,6816,Three O'Clock High (1987),0.5441
+444,1209,Once Upon a Time in the West (C'era una volta il West) (1968),0.5306
+444,134783,Entourage (2015),0.5196
+445,1,Toy Story (1995),2.0189
+445,190221,Hommage à Zgougou (et salut à Sabine Mamou) (2002),0.5257
+445,69849,Roots (1977),0.507
+445,4600,Gross Anatomy (a.k.a. A Cut Above) (1989),0.4978
+445,62970,Tin Man (2007),0.4756
+446,1,Toy Story (1995),2.9562
+446,2502,Office Space (1999),0.5509
+446,55069,"4 Months, 3 Weeks and 2 Days (4 luni, 3 saptamâni si 2 zile) (2007)",0.5476
+446,4224,Exit Wounds (2001),0.539
+446,1653,Gattaca (1997),0.5318
+447,80615,Legend of the Guardians: The Owls of Ga'Hoole (2010),0.9108
+447,2287,Them! (1954),0.2682
+447,27768,Intimate Strangers (Confidences trop intimes) (2004),0.2677
+447,6793,Beethoven (1992),0.2639
+447,34450,Miracles - Mr. Canton and Lady Rose (1989),0.2556
+448,1770,B. Monkey (1998),1.5135
+448,5513,Martin Lawrence Live: Runteldat (2002),0.3885
+448,109282,GLOW: The Story of the Gorgeous Ladies of Wrestling (2012),0.3471
+448,181659,Craig Ferguson: Tickle Fight (2017),0.3438
+448,58162,Run Fatboy Run (2007),0.3397
+449,1,Toy Story (1995),0.9619
+449,1701,Deconstructing Harry (1997),0.2499
+449,8264,Grey Gardens (1975),0.241
+449,75416,Generation X (1996),0.2392
+449,3653,"Endless Summer, The (1966)",0.238
+450,1,Toy Story (1995),1.8651
+450,151315,Ride Along 2 (2016),0.3579
+450,4210,Manhunter (1986),0.3466
+450,177939,"The Night Is Short, Walk on Girl (2017)",0.3464
+450,74282,Anne of Green Gables: The Sequel (a.k.a. Anne of Avonlea) (1987),0.341
+451,7477,Eye See You (D-Tox) (2002),1.6009
+451,60937,"Mummy: Tomb of the Dragon Emperor, The (2008)",1.5458
+451,378,Speechless (1994),1.5279
+451,110102,Captain America: The Winter Soldier (2014),1.5262
+451,133832,The Green Inferno (2014),1.5223
+452,1,Toy Story (1995),2.0498
+452,152970,Hunt for the Wilderpeople (2016),0.3848
+452,101074,"Legend of Sleepy Hollow, The (1949)",0.3759
+452,3404,Titanic (1953),0.3649
+452,2104,Tex (1982),0.3459
+453,189547,Iron Soldier (2010),1.6153
+453,142488,Spotlight (2015),1.5728
+453,151501,Exposed (2016),1.5516
+453,2149,House II: The Second Story (1987),1.4306
+453,166705,Fences (2016),0.9954
+454,1,Toy Story (1995),0.9931
+454,151559,Frankenstein (2015),0.2741
+454,2000,Lethal Weapon (1987),0.2664
+454,50796,Blood and Chocolate (2007),0.2451
+454,5197,Little Darlings (1980),0.2325
+455,1,Toy Story (1995),2.5332
+455,5014,I Am Sam (2001),0.4587
+455,79274,Batman: Under the Red Hood (2010),0.4569
+455,38,It Takes Two (1995),0.4482
+455,372,Reality Bites (1994),0.4324
+456,3766,Missing in Action (1984),1.8278
+456,52375,"Hoax, The (2007)",1.7788
+456,40966,"Libertine, The (2004)",1.7662
+456,97701,Paranormal Activity 4 (2012),1.674
+456,8447,This Island Earth (1955),1.6445
+457,1,Toy Story (1995),1.9812
+457,6239,Journey to the Center of the Earth (1959),0.6217
+457,50842,"Boss of It All, The (Direktøren for det hele) (2006)",0.5841
+457,500,Mrs. Doubtfire (1993),0.5823
+457,1924,Plan 9 from Outer Space (1959),0.5763
+458,1,Toy Story (1995),2.4383
+458,434,Cliffhanger (1993),0.6287
+458,41716,"Matador, The (2005)",0.5337
+458,4850,Spriggan (Supurigan) (1998),0.5049
+458,37211,Go West (1940),0.5008
+459,1,Toy Story (1995),2.9409
+459,33646,"Longest Yard, The (2005)",0.6949
+459,5915,Victory (a.k.a. Escape to Victory) (1981),0.6683
+459,7349,Broken Wings (Knafayim Shvurot) (2002),0.6525
+459,263,Ladybird Ladybird (1994),0.6427
+460,1867,Tarzan and the Lost City (1998),2.0438
+460,5364,Unfaithful (2002),1.6646
+460,1300,My Life as a Dog (Mitt liv som hund) (1985),1.5951
+460,649,Cold Fever (Á köldum klaka) (1995),1.5794
+460,5684,Naqoyqatsi (2002),1.5204
+461,1,Toy Story (1995),1.2101
+461,7345,Agent Cody Banks 2: Destination London (2004),0.2251
+461,2347,"Pope of Greenwich Village, The (1984)",0.2153
+461,2787,Cat's Eye (1985),0.2121
+461,118894,Scooby-Doo! Abracadabra-Doo (2010),0.2039
+462,719,Multiplicity (1996),0.3797
+462,84944,Rango (2011),0.355
+462,84637,Gnomeo & Juliet (2011),0.3466
+462,741,Ghost in the Shell (Kôkaku kidôtai) (1995),0.3435
+462,38992,Two for the Money (2005),0.3118
+463,1,Toy Story (1995),2.0122
+463,1394,Raising Arizona (1987),0.4224
+463,5879,Eight Crazy Nights (Adam Sandler's Eight Crazy Nights) (2002),0.4091
+463,91535,"Bourne Legacy, The (2012)",0.3999
+463,152711,Who Killed Chea Vichea? (2010),0.3978
+464,1,Toy Story (1995),1.4395
+464,2457,Running Scared (1986),0.3775
+464,1236,Trust (1990),0.311
+464,5106,Crossroads (2002),0.3098
+464,8368,Harry Potter and the Prisoner of Azkaban (2004),0.2875
+465,1,Toy Story (1995),1.0385
+465,5984,"Story of O, The (Histoire d'O) (1975)",0.2176
+465,2455,"Fly, The (1986)",0.2159
+465,32291,Melinda and Melinda (2004),0.2144
+465,156387,Sing Street (2016),0.1955
+466,1,Toy Story (1995),2.0181
+466,494,Executive Decision (1996),0.6018
+466,107565,"Fuck You, Goethe (Fack Ju Göhte) (2013)",0.5881
+466,26492,Twilight Zone: The Movie (1983),0.5776
+466,5666,"Rules of Attraction, The (2002)",0.5774
+467,1,Toy Story (1995),0.4946
+467,3423,School Daze (1988),0.1474
+467,2614,Chopping Mall (a.k.a. Killbots) (1986),0.1435
+467,171695,Robin Williams: Live on Broadway (2002),0.1306
+467,134021,5 to 7 (2014),0.1192
+468,4123,Ishtar (1987),1.8594
+468,132,Jade (1995),1.6456
+468,3034,Robin Hood (1973),1.6447
+468,47646,Idlewild (2006),1.6295
+468,6768,Luther (2003),1.5649
+469,72694,Shrink (2009),1.5727
+469,95949,"Immature, The (Immaturi) (2011)",1.4869
+469,802,Phenomenon (1996),1.4709
+469,64620,Frost/Nixon (2008),1.4684
+469,188751,Mamma Mia: Here We Go Again! (2018),1.4643
+470,3958,Billy Jack Goes to Washington (1977),1.5353
+470,86644,"Fast Five (Fast and the Furious 5, The) (2011)",1.5274
+470,114601,This Is Where I Leave You (2014),1.453
+470,2956,Someone to Watch Over Me (1987),1.4487
+470,106889,Tim's Vermeer (2013),1.4477
+471,7455,"Mudge Boy, The (2003)",1.8429
+471,171701,The Death of Louis XIV (2016),1.799
+471,434,Cliffhanger (1993),1.7315
+471,6348,Breakin' 2: Electric Boogaloo (1984),1.6825
+471,132422,Da Sweet Blood of Jesus (2014),1.6651
+472,1,Toy Story (1995),1.7938
+472,3556,"Virgin Suicides, The (1999)",0.6294
+472,1675,Incognito (1997),0.5051
+472,2307,One Tough Cop (1998),0.4859
+472,1213,Goodfellas (1990),0.4789
+473,1,Toy Story (1995),1.9282
+473,5055,Dragon: The Bruce Lee Story (1993),0.4931
+473,7321,Twisted (2004),0.4609
+473,5372,Calamity Jane (1953),0.4433
+473,8684,"Man Escaped, A (Un  condamné à mort s'est échappé ou Le vent souffle où il veut) (1956)",0.439
+474,33677,Rock School (2005),1.4483
+474,116963,Ski School (1991),1.4006
+474,60894,"Edge of Love, The (2008)",1.3585
+474,283,New Jersey Drive (1995),1.2676
+474,1986,Halloween 5: The Revenge of Michael Myers (1989),1.2323
+475,1,Toy Story (1995),3.227
+475,7073,"Shot in the Dark, A (1964)",0.6756
+475,3051,Anywhere But Here (1999),0.6439
+475,72489,Ninja Assassin (2009),0.6207
+475,116849,Sex Ed (2014),0.6124
+476,56908,Dedication (2007),2.2817
+476,6748,"Brood, The (1979)",1.7065
+476,6193,Poolhall Junkies (2002),1.6782
+476,55820,No Country for Old Men (2007),1.5013
+476,38164,"All This, and Heaven Too (1940)",1.4865
+477,112303,Think Like a Man Too (2014),1.891
+477,529,Searching for Bobby Fischer (1993),1.6811
+477,4477,Big Top Pee-Wee (1988),1.5874
+477,2236,Simon Birch (1998),1.5331
+477,6358,Kiss Me Kate (1953),1.4964
+478,1,Toy Story (1995),3.2586
+478,1114,"Funeral, The (1996)",0.9257
+478,8950,The Machinist (2004),0.8023
+478,52885,Paprika (Papurika) (2006),0.7701
+478,5425,Dark Blue World (Tmavomodrý svet) (2001),0.7627
+479,1,Toy Story (1995),3.282
+479,98503,Half a Loaf of Kung Fu (Dian zhi gong fu gan chian chan) (1980),0.8263
+479,2002,Lethal Weapon 3 (1992),0.7934
+479,62662,Tokyo-Ga (1985),0.6452
+479,6902,Interstate 60 (2002),0.6136
+480,110730,Transcendence (2014),1.64
+480,95558,Beasts of the Southern Wild (2012),1.5419
+480,6734,Memoirs of an Invisible Man (1992),1.5376
+480,5384,I Want to Live! (1958),1.5121
+480,85788,Insidious (2010),1.4842
+481,1,Toy Story (1995),0.7156
+481,136471,Kevin Hart: Laugh at My Pain (2011),0.1686
+481,8578,Undead (2003),0.155
+481,48319,Flyboys (2006),0.152
+481,3418,Thelma & Louise (1991),0.15
+482,1,Toy Story (1995),2.5132
+482,393,Street Fighter (1994),0.5848
+482,160730,The Adderall Diaries (2015),0.5611
+482,1549,Rough Magic (1995),0.5515
+482,54881,"King of Kong, The (2007)",0.534
+483,5135,Monsoon Wedding (2001),2.8433
+483,7142,Honey (2003),0.459
+483,105037,"To Do List, The (2013)",0.4396
+483,141668,War Room (2015),0.4361
+483,101525,"Place Beyond the Pines, The (2012)",0.4346
+484,189713,BlacKkKlansman (2018),1.6834
+484,3964,"Adventures of Ichabod and Mr. Toad, The (1949)",1.6372
+484,6300,Flickering Lights (Blinkende lygter) (2000),1.6199
+484,150696,Tomorrow (2015),1.6157
+484,43836,"Pink Panther, The (2006)",1.6131
+485,6246,Talent for the Game (1991),1.1603
+485,86,White Squall (1996),0.2723
+485,27370,Late Night Shopping (2001),0.2669
+485,5023,"Waterdance, The (1992)",0.2529
+485,25865,"Letter, The (1940)",0.245
+486,1,Toy Story (1995),1.8292
+486,96520,Prime Suspect: The Lost Child (1995),0.4511
+486,3152,"Last Picture Show, The (1971)",0.4443
+486,6339,"Man on the Train (Homme du train, L') (2002)",0.4206
+486,778,Trainspotting (1996),0.416
+487,1,Toy Story (1995),2.8673
+487,168266,T2: Trainspotting (2017),0.7006
+487,5468,20 Million Miles to Earth (1957),0.6608
+487,5244,Shogun Assassin (1980),0.6522
+487,27105,Purgatory (1999),0.6444
+488,1399,Marvin's Room (1996),1.6478
+488,100507,21 and Over (2013),1.6414
+488,6301,Straw Dogs (1971),1.6325
+488,82527,Barney's Version (2010),1.5594
+488,50942,"Wake Up, Ron Burgundy (2004)",1.5578
+489,4470,Ariel (1988),1.5419
+489,1642,Indian Summer (a.k.a. Alive & Kicking) (1996),0.4074
+489,32511,"Touch of Zen, A (Xia nu) (1971)",0.3347
+489,8979,Guerrilla: The Taking of Patty Hearst (2004),0.3293
+489,79592,"Other Guys, The (2010)",0.3243
+490,113186,Felony (2013),1.7325
+490,53326,Them (Ils) (2006),1.5826
+490,4003,She's Having a Baby (1988),1.5179
+490,69784,Brüno (Bruno) (2009),1.4578
+490,1144,"Line King: The Al Hirschfeld Story, The (1996)",1.4551
+491,1,Toy Story (1995),2.4583
+491,50685,Waitress (2007),0.7482
+491,26676,Almost an Angel (1990),0.686
+491,4127,"Like Father, Like Son (1987)",0.6684
+491,2436,Tea with Mussolini (1999),0.649
+492,60514,Journey to the Center of the Earth (2008),1.9056
+492,111443,Chef (2014),1.598
+492,5298,Human Nature (2001),1.5854
+492,32799,Maidens in Uniform (Mädchen in Uniform) (1931),1.5667
+492,76030,Case 39 (2009),1.5562
+493,1,Toy Story (1995),1.4814
+493,7991,Death Race 2000 (1975),0.3077
+493,1030,Pete's Dragon (1977),0.2815
+493,184721,First Reformed (2017),0.2757
+493,1620,Kiss the Girls (1997),0.2716
+494,101362,Olympus Has Fallen (2013),1.9017
+494,93819,Absentia (2011),0.4453
+494,6263,Basic (2003),0.4001
+494,26776,Porco Rosso (Crimson Pig) (Kurenai no buta) (1992),0.3994
+494,55290,Gone Baby Gone (2007),0.3929
+495,1,Toy Story (1995),2.5325
+495,4443,Outland (1981),0.4441
+495,7381,"Whole Ten Yards, The (2004)",0.4357
+495,33132,State Property 2 (2005),0.4328
+495,44022,Ice Age 2: The Meltdown (2006),0.432
+496,1,Toy Story (1995),2.6875
+496,105211,Enough Said (2013),0.6569
+496,1592,Air Bud (1997),0.5804
+496,52283,"Reaping, The (2007)",0.5594
+496,4770,"Glass House, The (2001)",0.5525
+497,1,Toy Story (1995),1.7452
+497,969,"African Queen, The (1951)",0.3216
+497,4041,"Officer and a Gentleman, An (1982)",0.3192
+497,163,Desperado (1995),0.3034
+497,2978,Three to Tango (1999),0.2928
+498,1,Toy Story (1995),2.1397
+498,31445,Employee of the Month (2004),0.5415
+498,5688,Tully (2000),0.489
+498,143969,Er ist wieder da (2015),0.4749
+498,5608,"Das Experiment (Experiment, The) (2001)",0.4692
+499,1,Toy Story (1995),1.9546
+499,141830,Unbelievable Adventures of Italians in Russia (1974),0.5569
+499,97752,Cloud Atlas (2012),0.5543
+499,6242,Ringu (Ring) (1998),0.4979
+499,1597,Conspiracy Theory (1997),0.4863
+500,1440,Amos & Andrew (1993),2.1107
+500,1556,Speed 2: Cruise Control (1997),0.4174
+500,3864,Godzilla 2000 (Gojira ni-sen mireniamu) (1999),0.3837
+500,99415,Parental Guidance (2012),0.3831
+500,1236,Trust (1990),0.3603
+501,1,Toy Story (1995),2.0626
+501,6638,Valley Girl (1983),0.6193
+501,47640,Beerfest (2006),0.576
+501,27846,"Corporation, The (2003)",0.5338
+501,35836,"40-Year-Old Virgin, The (2005)",0.5048
+502,1,Toy Story (1995),2.5091
+502,6204,"Meteor Man, The (1993)",0.6206
+502,4089,Born in East L.A. (1987),0.6108
+502,574,Spanking the Monkey (1994),0.5872
+502,98160,Nature Calls (2012),0.5783
+503,1,Toy Story (1995),1.6041
+503,106002,Ender's Game (2013),0.3213
+503,1673,Boogie Nights (1997),0.3198
+503,56251,Futurama: Bender's Big Score (2007),0.3128
+503,3652,"City of the Living Dead (a.k.a. Gates of Hell, The) (Paura nella città dei morti viventi) (1980)",0.3123
+504,123947,Cake (2014),1.5369
+504,3981,Red Planet (2000),1.4862
+504,54686,"Last Legion, The (2007)",1.456
+504,737,Barb Wire (1996),1.3988
+504,1882,Godzilla (1998),1.3221
+505,1,Toy Story (1995),1.9544
+505,7439,"Punisher, The (2004)",0.5106
+505,2137,Charlotte's Web (1973),0.486
+505,43914,Winter Passing (2005),0.4856
+505,2435,Hurlyburly (1998),0.4766
+506,68959,Fullmetal Alchemist the Movie: Conqueror of Shamballa (Gekijô-ban hagane no renkinjutsushi: Shanbara wo yuku mono) (2005),2.0187
+506,3868,"Naked Gun: From the Files of Police Squad!, The (1988)",0.4497
+506,104241,Kick-Ass 2 (2013),0.4477
+506,1755,Shooting Fish (1997),0.4407
+506,2540,"Corruptor, The (1999)",0.431
+507,1,Toy Story (1995),1.4223
+507,6305,Fahrenheit 451 (1966),0.3973
+507,3467,Hud (1963),0.3961
+507,4625,Millennium (1989),0.3887
+507,5417,"Fast Runner, The (Atanarjuat) (2001)",0.3786
+508,1,Toy Story (1995),3.2497
+508,4392,Alice (1990),0.6328
+508,4436,Obsession (1976),0.5805
+508,3284,They Might Be Giants (1971),0.5648
+508,69805,"Librarian, The: The Curse of the Judas Chalice (2008)",0.5422
+509,29,"City of Lost Children, The (Cité des enfants perdus, La) (1995)",1.9642
+509,120625,The Fool (2014),1.8062
+509,174479,Unedited Footage of a Bear (2014),1.7112
+509,1680,Sliding Doors (1998),1.2729
+509,2114,"Outsiders, The (1983)",1.2177
+510,1,Toy Story (1995),1.92
+510,70637,I Can't Think Straight (2007),0.4389
+510,7493,"Three Faces of Eve, The (1957)",0.4186
+510,3471,Close Encounters of the Third Kind (1977),0.4179
+510,120625,The Fool (2014),0.4126
+511,1,Toy Story (1995),1.7948
+511,3684,"Fabulous Baker Boys, The (1989)",0.5043
+511,6638,Valley Girl (1983),0.4146
+511,6042,Blind Spot: Hitler's Secretary (Im toten Winkel - Hitlers Sekretärin) (2002),0.3876
+511,27478,Ali G Indahouse (2002),0.3534
+512,163925,"Wings, Legs and Tails (1986)",0.9641
+512,127298,A Pigeon Sat on a Branch Reflecting on Existence (2014),0.233
+512,37240,Why We Fight (2005),0.2066
+512,63515,The Island (2006),0.1945
+512,6564,Lara Croft Tomb Raider: The Cradle of Life (2003),0.1923
+513,1,Toy Story (1995),2.3893
+513,2817,Aces: Iron Eagle III (1992),0.6494
+513,4988,White Water Summer (1987),0.5399
+513,118530,Fans (1999),0.5159
+513,1496,Anna Karenina (1997),0.5089
+514,6395,"Crazies, The (a.k.a. Code Name: Trixie) (1973)",1.582
+514,51573,Meshes of the Afternoon (1943),1.5547
+514,2026,Disturbing Behavior (1998),1.5394
+514,140267,The Witch (2015),1.5307
+514,90384,Behind Enemy Lines II: Axis of Evil (2006),1.4014
+515,1,Toy Story (1995),0.9764
+515,34162,Wedding Crashers (2005),0.2621
+515,32515,Walker (1987),0.2469
+515,104303,Jobs (2013),0.2465
+515,48,Pocahontas (1995),0.2366
+516,1,Toy Story (1995),3.3711
+516,184997,"Love, Simon (2018)",0.6575
+516,26078,Advise and Consent (1962),0.6366
+516,4831,Can't Stop the Music (1980),0.63
+516,2599,Election (1999),0.623
+517,3688,Porky's (1982),1.9305
+517,57843,Rise of the Footsoldier (2007),1.8951
+517,2271,Permanent Midnight (1998),1.8416
+517,453,For Love or Money (1993),1.7967
+517,2428,"Faculty, The (1998)",1.6999
+518,1,Toy Story (1995),2.7666
+518,2027,Jane Austen's Mafia! (1998),0.5793
+518,4840,"Last Metro, The (Dernier métro, Le) (1980)",0.5763
+518,4290,For the Boys (1991),0.5512
+518,7005,King Ralph (1991),0.5473
+519,1,Toy Story (1995),1.5781
+519,95497,Dragon Ball Z: Super Android 13! (Doragon bôru Z 7: Kyokugen batoru!! San dai sûpâ saiyajin) (1992),0.3772
+519,69604,Whatever Works (2009),0.3596
+519,441,Dazed and Confused (1993),0.3386
+519,4310,Pearl Harbor (2001),0.328
+520,1,Toy Story (1995),3.196
+520,6335,"Dancer Upstairs, The (2002)",0.7489
+520,5650,Strange Brew (1983),0.7237
+520,6644,"Green Ray, The (Rayon vert, Le) (1986)",0.7225
+520,647,Courage Under Fire (1996),0.7043
+521,1,Toy Story (1995),2.3602
+521,8461,Dragon Seed (1944),0.4711
+521,4105,"Evil Dead, The (1981)",0.4523
+521,38159,"Short Film About Love, A (Krótki film o milosci) (1988)",0.4493
+521,8600,Angels with Dirty Faces (1938),0.4367
+522,155743,My Big Fat Greek Wedding 2 (2016),1.6632
+522,92475,All Watched Over by Machines of Loving Grace (2011),1.6451
+522,48,Pocahontas (1995),1.6419
+522,1952,Midnight Cowboy (1969),1.5546
+522,6963,Devil's Playground (2002),1.4956
+523,1,Toy Story (1995),4.1719
+523,3865,"Original Kings of Comedy, The (2000)",0.9171
+523,110130,"Nut Job, The (2014)",0.8854
+523,543,So I Married an Axe Murderer (1993),0.8746
+523,90866,Hugo (2011),0.8035
+524,5644,"Pride of the Yankees, The (1942)",1.5299
+524,53125,Pirates of the Caribbean: At World's End (2007),1.4656
+524,41997,Munich (2005),1.4463
+524,43912,Freedomland (2006),1.4428
+524,91842,Contraband (2012),1.4088
+525,47774,"Icicle Thief, The (Ladri di saponette) (1989)",1.7976
+525,175585,Shot Caller (2017),1.6559
+525,1785,King of New York (1990),1.6374
+525,42015,Casanova (2005),1.5892
+525,7208,Dr. Jekyll and Mr. Hyde (1941),1.5561
+526,1,Toy Story (1995),1.9754
+526,48518,"Texas Chainsaw Massacre: The Beginning, The (2006)",0.4467
+526,67087,"I Love You, Man (2009)",0.3986
+526,168612,Ghost in the Shell (2017),0.3916
+526,74226,"Dream of Light (a.k.a. Quince Tree Sun, The) (Sol del membrillo, El) (1992)",0.3894
+527,1,Toy Story (1995),3.8174
+527,69860,Eichmann (2007),1.3926
+527,37844,Roll Bounce (2005),0.7848
+527,1490,B*A*P*S (1997),0.7662
+527,97665,Asterix & Obelix: God Save Britannia (Astérix et Obélix: Au service de Sa Majesté) (2012),0.7246
+528,48082,"Science of Sleep, The (La science des rêves) (2006)",0.227
+528,455,Free Willy (1993),0.2226
+528,2897,And the Ship Sails On (E la nave va) (1983),0.2217
+528,34072,"March of the Penguins (Marche de l'empereur, La) (2005)",0.22
+528,2706,American Pie (1999),0.2165
+529,48596,"Marine, The (2006)",2.3992
+529,4920,"Now, Voyager (1942)",0.5248
+529,2069,"Trip to Bountiful, The (1985)",0.4716
+529,5678,Formula 51 (2001),0.4667
+529,3022,"General, The (1926)",0.4664
+530,1,Toy Story (1995),1.6819
+530,56176,Alvin and the Chipmunks (2007),0.3667
+530,3915,Girlfight (2000),0.3396
+530,25769,"Steamboat Bill, Jr. (1928)",0.3357
+530,164,Devil in a Blue Dress (1995),0.3342
+531,5237,Taps (1981),0.906
+531,4622,Loverboy (1989),0.1826
+531,80860,Life as We Know It (2010),0.1661
+531,111,Taxi Driver (1976),0.1598
+531,4995,"Beautiful Mind, A (2001)",0.1576
+532,1,Toy Story (1995),0.7119
+532,103602,Craig Ferguson: I'm Here To Help (2013),0.1494
+532,27873,Metallica: Some Kind of Monster (2004),0.1481
+532,81,Things to Do in Denver When You're Dead (1995),0.1314
+532,384,Bad Company (1995),0.1306
+533,1333,"Birds, The (1963)",1.8221
+533,179133,Loving Vincent (2017),1.562
+533,261,Little Women (1994),1.4394
+533,72165,Cirque du Freak: The Vampire's Assistant (2009),1.3861
+533,6417,Live Wire (1992),1.3295
+534,102066,Resolution (2012),2.0442
+534,42638,Grand Theft Parsons (2003),1.7336
+534,4465,"Accused, The (1988)",1.733
+534,130087,The Cobbler (2015),1.6644
+534,2897,And the Ship Sails On (E la nave va) (1983),1.6405
+535,1,Toy Story (1995),2.2712
+535,81784,Morning Glory (2010),0.4421
+535,125,Flirting With Disaster (1996),0.4274
+535,1798,Hush (1998),0.4258
+535,26985,Nirvana (1997),0.2947
+536,1,Toy Story (1995),1.692
+536,3148,"Cider House Rules, The (1999)",0.3441
+536,61348,Disaster Movie (2008),0.3401
+536,4228,Heartbreakers (2001),0.3396
+536,691,Mrs. Winterbourne (1996),0.3389
+537,1,Toy Story (1995),1.9823
+537,5300,3:10 to Yuma (1957),0.4624
+537,95199,What to Expect When You're Expecting (2012),0.4445
+537,3083,All About My Mother (Todo sobre mi madre) (1999),0.4279
+537,6357,High Society (1956),0.4265
+538,75803,Our Family Wedding (2010),1.7963
+538,101884,Dark Tide (2012),0.3341
+538,189043,Boundaries (2018),0.3314
+538,102066,Resolution (2012),0.3071
+538,93721,Jiro Dreams of Sushi (2011),0.2947
+539,1,Toy Story (1995),3.7735
+539,160684,Marauders (2016),1.0318
+539,50445,"Hitcher, The (2007)",1.0223
+539,130842,Power/Rangers (2015),0.996
+539,27186,Kirikou and the Sorceress (Kirikou et la sorcière) (1998),0.9908
+540,1,Toy Story (1995),2.4381
+540,5614,"His Secret Life (a.k.a. Ignorant Fairies, The) (Fate ignoranti, Le) (2001)",0.5044
+540,103865,Revenge for Jolly! (2012),0.458
+540,2497,Message in a Bottle (1999),0.4431
+540,98122,Indie Game: The Movie (2012),0.4354
+541,3011,"They Shoot Horses, Don't They? (1969)",1.1345
+541,1884,Fear and Loathing in Las Vegas (1998),0.306
+541,3969,Pay It Forward (2000),0.2736
+541,8588,Killing Me Softly (2002),0.2573
+541,94122,Comic-Con Episode IV: A Fan's Hope (2011),0.2566
+542,1,Toy Story (1995),3.805
+542,5690,Grave of the Fireflies (Hotaru no haka) (1988),0.84
+542,71156,"Men Who Stare at Goats, The (2009)",0.7787
+542,3791,Footloose (1984),0.7758
+542,7951,Nightbreed (1990),0.7501
+543,1,Toy Story (1995),3.1595
+543,5591,Monkey Trouble (1994),0.7071
+543,3057,Where's Marlowe? (1998),0.699
+543,8911,Raise Your Voice (2004),0.696
+543,7259,You Got Served (2004),0.6735
+544,103655,R.I.P.D. (2013),1.5586
+544,8012,Kikujiro (Kikujirô no natsu) (1999),1.5164
+544,37380,Doom (2005),1.4622
+544,58404,Justice League: The New Frontier (2008) ,1.4486
+544,95965,Dragon Ball Z: Bardock - The Father of Goku (Doragon bôru Z: Tatta hitori no saishuu kessen - Furiiza ni itonda Z senshi Kakarotto no chichi) (1990),1.4247
+545,1,Toy Story (1995),1.6403
+545,114066,"20,000 Days on Earth (2014)",0.3518
+545,2475,52 Pick-Up (1986),0.3386
+545,3951,Two Family House (2000),0.3346
+545,347,Bitter Moon (1992),0.3149
+546,1,Toy Story (1995),1.5413
+546,7991,Death Race 2000 (1975),0.3447
+546,72605,Brothers (2009),0.3239
+546,66,Lawnmower Man 2: Beyond Cyberspace (1996),0.3224
+546,2495,"Fantastic Planet, The (Planète sauvage, La) (1973)",0.3124
+547,1,Toy Story (1995),1.3089
+547,2436,Tea with Mussolini (1999),0.2906
+547,6062,Lost in La Mancha (2002),0.2881
+547,2307,One Tough Cop (1998),0.2796
+547,116718,Volga - Volga (1938),0.2518
+548,1,Toy Story (1995),1.8449
+548,174053,Black Mirror: White Christmas (2014),0.4152
+548,4197,Real Life (1979),0.4128
+548,5312,Murder by Numbers (2002),0.4061
+548,2082,"Mighty Ducks, The (1992)",0.4041
+549,1,Toy Story (1995),0.8583
+549,157270,Barbershop: The Next Cut (2016),0.183
+549,971,Cat on a Hot Tin Roof (1958),0.18
+549,134881,Love & Mercy (2014),0.1774
+549,82041,"Loved Ones, The (2009)",0.1699
+550,57536,Strange Wilderness (2008),1.5702
+550,8014,"Spring, Summer, Fall, Winter... and Spring (Bom yeoreum gaeul gyeoul geurigo bom) (2003)",1.5639
+550,4814,Don't Say a Word (2001),1.4701
+550,6265,Head of State (2003),1.3964
+550,64957,"Curious Case of Benjamin Button, The (2008)",1.3488
+551,1,Toy Story (1995),1.9946
+551,326,To Live (Huozhe) (1994),0.4713
+551,177185,Maz Jobrani: Immigrant (2017),0.3834
+551,94867,"Pact, The (2012)",0.3807
+551,292,Outbreak (1995),0.3757
+552,1,Toy Story (1995),2.8397
+552,381,When a Man Loves a Woman (1994),0.8143
+552,114601,This Is Where I Leave You (2014),0.6098
+552,951,His Girl Friday (1940),0.6071
+552,7171,Aileen: Life and Death of a Serial Killer (2003),0.5609
+553,1,Toy Story (1995),1.0555
+553,36525,Just Like Heaven (2005),0.2827
+553,6386,Nevada Smith (1966),0.2102
+553,7184,This Property is Condemned (1966),0.2058
+553,92046,Contact High (2009),0.1943
+554,1,Toy Story (1995),3.014
+554,6339,"Man on the Train (Homme du train, L') (2002)",0.5396
+554,93,Vampire in Brooklyn (1995),0.5069
+554,60365,Frosty the Snowman (1969),0.5022
+554,526,"Savage Nights (Nuits fauves, Les) (1992)",0.5022
+555,118814,Playing It Cool (2014),1.5882
+555,8506,Fear X (2003),1.583
+555,2822,Medicine Man (1992),1.5205
+555,130840,Spring (2015),1.3851
+555,50610,Beer League (2006),1.3267
+556,1,Toy Story (1995),3.4507
+556,93982,"Raven, The (2012)",0.8186
+556,1096,Sophie's Choice (1982),0.7797
+556,40412,Dead Man's Shoes (2004),0.7715
+556,101362,Olympus Has Fallen (2013),0.7535
+557,1,Toy Story (1995),2.8207
+557,71810,Legionnaire (1998),0.6356
+557,27408,Ripley's Game (2002),0.6305
+557,1616,"Peacemaker, The (1997)",0.6211
+557,113350,I'll Follow You Down (2013),0.6051
+558,1,Toy Story (1995),2.2699
+558,35957,Red Eye (2005),0.526
+558,47446,"Moustache, La (2005)",0.5161
+558,7773,"Bang, Bang, You're Dead (2002)",0.5119
+558,78209,Get Him to the Greek (2010),0.5108
+559,100498,"Good Day to Die Hard, A (2013)",1.7965
+559,5247,Smokey and the Bandit (1977),1.644
+559,3363,American Graffiti (1973),1.5749
+559,2897,And the Ship Sails On (E la nave va) (1983),1.5633
+559,2194,"Untouchables, The (1987)",1.5598
+560,151687,Risen (2016),1.4764
+560,3329,The Year My Voice Broke (1987),1.4111
+560,2840,Stigmata (1999),1.3989
+560,2058,"Negotiator, The (1998)",1.3207
+560,2892,New Rose Hotel (1998),1.3059
+561,4541,"Serpent and the Rainbow, The (1988)",1.4788
+561,26776,Porco Rosso (Crimson Pig) (Kurenai no buta) (1992),1.4079
+561,6827,It's Pat (1994),1.3543
+561,42011,Fun with Dick and Jane (2005),1.3541
+561,1224,Henry V (1989),1.2979
+562,7088,Black Orpheus (Orfeu Negro) (1959),1.4523
+562,6755,Bubba Ho-tep (2002),1.4462
+562,89028,Don't Be Afraid of the Dark (2010),1.3497
+562,51903,I Think I Love My Wife (2007),1.2484
+562,63876,Milk (2008),1.2164
+563,1,Toy Story (1995),2.6646
+563,128099,Jim Jefferies: BARE (2014),0.5918
+563,8947,"Grudge, The (2004)",0.5887
+563,4061,The Man in the Moon (1991),0.5548
+563,2699,Arachnophobia (1990),0.5402
+564,1,Toy Story (1995),2.7396
+564,31030,I Remember Mama (1948),0.5801
+564,3185,Snow Falling on Cedars (1999),0.5683
+564,104017,3 dev adam (Three Giant Men) (1973) ,0.5247
+564,136447,George Carlin: You Are All Diseased (1999),0.5111
+565,1,Toy Story (1995),2.1389
+565,8275,College (1927),0.676
+565,386,S.F.W. (1994),0.5184
+565,3265,Hard-Boiled (Lat sau san taam) (1992),0.4949
+565,33558,"Snow Walker, The (2003)",0.4949
+566,1,Toy Story (1995),2.7306
+566,27549,Dead or Alive: Final (2002),0.4907
+566,92259,Intouchables (2011),0.4528
+566,26350,"Passenger, The (Professione: reporter) (1975)",0.4504
+566,766,I Shot Andy Warhol (1996),0.4475
+567,4617,Let It Ride (1989),1.6228
+567,179073,Male Hunt (1964),1.4636
+567,58025,Jumper (2008),1.451
+567,100611,Escape from Planet Earth (2013),1.3666
+567,139157,Massu Engira Maasilamani (2015),1.329
+568,173619,Fugitives (1986),1.9455
+568,408,8 Seconds (1994),0.379
+568,157312,The Boss (2016),0.3766
+568,6145,Venom (1982),0.3523
+568,5903,Equilibrium (2002),0.3365
+569,1,Toy Story (1995),2.2976
+569,26422,Hair (1979),0.6011
+569,72,Kicking and Screaming (1995),0.5459
+569,113345,Jupiter Ascending (2015),0.5198
+569,8142,Dead or Alive: Hanzaisha (1999),0.4982
+570,8985,Blade: Trinity (2004),1.5194
+570,2542,"Lock, Stock & Two Smoking Barrels (1998)",1.4199
+570,62293,"Duchess, The (2008)",1.4063
+570,47044,Miami Vice (2006),1.3929
+570,98604,From Up on Poppy Hill (Kokuriko-zaka kara) (2011),1.3821
+571,1,Toy Story (1995),1.0357
+571,4347,Divided We Fall (Musíme si pomáhat) (2000),0.2696
+571,60737,Watching the Detectives (2007),0.2445
+571,99415,Parental Guidance (2012),0.244
+571,2306,Holy Man (1998),0.2423
+572,1454,SubUrbia (1997),3.29
+572,1457,Fools Rush In (1997),0.6109
+572,388,Boys Life (1995),0.5704
+572,2151,"Gods Must Be Crazy II, The (1989)",0.5542
+572,80917,Monsters (2010),0.5495
+573,68194,"Damned United, The (2009)",0.9838
+573,87444,Elektra Luxx (2010),0.2854
+573,2383,Police Academy 6: City Under Siege (1989),0.2429
+573,51545,Pusher III: I'm the Angel of Death (2005),0.2325
+573,193579,Jon Stewart Has Left the Building (2015),0.2121
+574,1,Toy Story (1995),2.3729
+574,47404,Mind Game (2004),0.7766
+574,44828,Slither (2006),0.5876
+574,609,Homeward Bound II: Lost in San Francisco (1996),0.5242
+574,43708,Block Party (a.k.a. Dave Chappelle's Block Party) (2005),0.5142
+575,1,Toy Story (1995),1.6222
+575,153070,Rabbits (2002),0.5233
+575,5127,Dragonfly (2002),0.5027
+575,3849,The Spiral Staircase (1945),0.487
+575,187595,Solo: A Star Wars Story (2018),0.4737
+576,1,Toy Story (1995),4.0945
+576,142831,Garam Masala (2005),0.8281
+576,7018,Presumed Innocent (1990),0.8208
+576,7205,"Wind and the Lion, The (1975)",0.8046
+576,67665,Anvil! The Story of Anvil (2008),0.8018
+577,1,Toy Story (1995),1.9036
+577,4297,Pelle the Conqueror (Pelle erobreren) (1987),0.6454
+577,26359,1900 (Novecento) (1976),0.4579
+577,4350,Forgotten Silver (1996),0.4564
+577,72479,"Messenger, The (2009)",0.447
+578,1,Toy Story (1995),1.6342
+578,4714,Any Which Way You Can (1980),0.3676
+578,154065,Dad's Army (2016),0.3045
+578,4130,Maid to Order (1987),0.2996
+578,2535,Earthquake (1974),0.2978
+579,4666,Skin Deep (1989),1.7432
+579,118880,"Girl Walks Home Alone at Night, A (2014)",1.6066
+579,82053,Casino Jack (2010),1.5944
+579,107069,Lone Survivor (2013),1.5847
+579,31658,Howl's Moving Castle (Hauru no ugoku shiro) (2004),1.5843
+580,2878,Hell Night (1981),1.3745
+580,6234,Equus (1977),1.3695
+580,4765,L.I.E. (2001),1.3281
+580,88911,My Afternoons with Margueritte (La tête en friche) (2010),1.307
+580,26554,"Quiet Earth, The (1985)",1.2976
+581,1,Toy Story (1995),3.1149
+581,3251,Agnes of God (1985),0.805
+581,4605,How to Get Ahead in Advertising (1989),0.6458
+581,58107,Step Up 2 the Streets (2008),0.6014
+581,48649,Chapayev (1934),0.5963
+582,1,Toy Story (1995),2.7096
+582,126088,A Flintstones Christmas Carol (1994),0.5385
+582,112512,Colourful (Karafuru) (2010),0.4933
+582,6880,"Texas Chainsaw Massacre, The (2003)",0.4771
+582,719,Multiplicity (1996),0.4763
+583,1,Toy Story (1995),2.766
+583,6358,Kiss Me Kate (1953),0.8122
+583,8375,"Hunting of the President, The (2004)",0.8035
+583,8290,Mitchell (1975),0.7931
+583,4591,Erik the Viking (1989),0.7801
+584,1635,"Ice Storm, The (1997)",1.6056
+584,6141,They Call Me Bruce? (a.k.a. A Fistful of Chopsticks) (1982),1.5474
+584,152091,The Brothers Grimsby (2016),1.4827
+584,6785,Seven Brides for Seven Brothers (1954),1.4244
+584,156726,Hush (2016),1.3971
+585,1,Toy Story (1995),0.8387
+585,93819,Absentia (2011),0.2884
+585,8748,"Yesterday, Today and Tomorrow (Ieri, oggi, domani) (1963)",0.227
+585,1483,Crash (1996),0.2186
+585,5974,"Thief of Bagdad, The (1940)",0.2173
+586,1,Toy Story (1995),4.0026
+586,59725,Sex and the City (2008),1.0206
+586,101423,Mezzo Forte (1998),0.7569
+586,82848,One Week (1920),0.6543
+586,6465,Jubilee (1977),0.6437
+587,8578,Undead (2003),1.6481
+587,2318,Happiness (1998),1.5259
+587,1829,Chinese Box (1997),1.414
+587,37830,Final Fantasy VII: Advent Children (2004),1.3826
+587,2172,"Strike! (a.k.a. All I Wanna Do, The Hairy Bird) (1998)",1.3584
+588,1,Toy Story (1995),1.1604
+588,127202,Me and Earl and the Dying Girl (2015),0.3278
+588,4256,"Center of the World, The (2001)",0.2721
+588,110669,"Honest Liar, An (2014)",0.2633
+588,4248,Josie and the Pussycats (2001),0.2592
+589,1,Toy Story (1995),2.0573
+589,5540,Clash of the Titans (1981),0.3271
+589,60389,Battle for Haditha (2007),0.3168
+589,87194,The Way (2010),0.3045
+589,2791,Airplane! (1980),0.282
+590,7087,"Passage to India, A (1984)",1.6107
+590,73386,Staten Island (2009),1.5368
+590,85316,Winnie the Pooh and Tigger Too (1974),1.5344
+590,6797,Bugsy (1991),1.5196
+590,106873,Evangelion: 3.0 You Can (Not) Redo (2012),1.4608
+591,1,Toy Story (1995),3.9762
+591,3079,Mansfield Park (1999),0.6974
+591,1273,Down by Law (1986),0.69
+591,4433,Written on the Wind (1956),0.6421
+591,152,"Addiction, The (1995)",0.6376
+592,1,Toy Story (1995),2.2898
+592,6938,Billabong Odyssey (2003),0.5605
+592,7114,"Collector, The (1965)",0.5449
+592,31923,"Three Musketeers, The (1973)",0.535
+592,5433,Silver Bullet (Stephen King's Silver Bullet) (1985),0.5009
+593,1,Toy Story (1995),2.7326
+593,3396,"Muppet Movie, The (1979)",0.5958
+593,7487,Henry & June (1990),0.5538
+593,3357,East-West (Est-ouest) (1999),0.5166
+593,27036,Merlin (1998),0.505
+594,3143,Hell in the Pacific (1968),0.9331
+594,5650,Strange Brew (1983),0.3187
+594,33896,3 Extremes (Three... Extremes) (Saam gaang yi) (2004),0.2696
+594,160718,Piper (2016),0.2562
+594,6039,"Woman in Red, The (1984)",0.2492
+595,1,Toy Story (1995),2.2744
+595,5680,Auto Focus (2002),0.5793
+595,76763,"Runaways, The (2010)",0.5714
+595,227,Drop Zone (1994),0.509
+595,4367,Lara Croft: Tomb Raider (2001),0.489
+596,59126,Religulous (2008),1.6407
+596,7167,Japanese Story (2003),1.6339
+596,633,Denise Calls Up (1995),1.5948
+596,605,One Fine Day (1996),1.5914
+596,5803,I Spy (2002),1.577
+597,136353,Scooby-Doo! and the Loch Ness Monster (2004),1.6469
+597,8371,"Chronicles of Riddick, The (2004)",1.5347
+597,7896,Ride the High Country (1962),1.4739
+597,155064,The Neon Demon (2016),1.4675
+597,116799,Inherent Vice (2014),1.4472
+598,1,Toy Story (1995),2.0919
+598,26048,"Human Condition II, The (Ningen no joken II) (1959)",0.4277
+598,921,My Favorite Year (1982),0.4192
+598,79592,"Other Guys, The (2010)",0.4041
+598,93242,Gone (2012),0.402
+599,4697,Basket Case (1982),1.5508
+599,1998,Exorcist II: The Heretic (1977),1.3963
+599,6949,"Big Empty, The (2003)",1.3936
+599,43936,16 Blocks (2006),1.3776
+599,71640,Burma VJ: Reporting from a Closed Country (Burma VJ: Reporter i et lukket land) (2008),1.2672
+600,3790,Groove (2000),0.7955
+600,7034,Show Me Love (Fucking Åmål) (1998),0.7652
+600,31083,Man Trouble (1992),0.7639
+600,7493,"Three Faces of Eve, The (1957)",0.7308
+600,908,North by Northwest (1959),0.7053
+601,3310,"Kid, The (1921)",2.3048
+601,1556,Speed 2: Cruise Control (1997),0.4126
+601,71131,"Most Hated Family in America, The (2007)",0.3967
+601,1255,Bad Taste (1987),0.3936
+601,90943,Into the Abyss (2011),0.3835
+602,1,Toy Story (1995),2.0058
+602,135569,Star Trek Beyond (2016),0.4672
+602,177593,"Three Billboards Outside Ebbing, Missouri (2017)",0.3728
+602,2311,2010: The Year We Make Contact (1984),0.3709
+602,140301,The Escort (2015),0.368
+603,62792,Pride and Glory (2008),2.9347
+603,171495,Cosmos,0.6291
+603,118290,Omega Doom (1996),0.5765
+603,5134,Mean Machine (2001),0.5097
+603,573,"Ciao, Professore! (Io speriamo che me la cavo) (1992)",0.4867
+604,45,To Die For (1995),1.6499
+604,33615,Madagascar (2005),1.5021
+604,6331,Spellbound (2002),1.4429
+604,1011,Herbie Rides Again (1974),1.4226
+604,587,Ghost (1990),1.3838
+605,324,"Sum of Us, The (1994)",1.8352
+605,2859,Stop Making Sense (1984),1.7627
+605,4545,Short Circuit (1986),1.7258
+605,149902,Garm Wars: The Last Druid (2014),1.6643
+605,3863,"Cell, The (2000)",1.6048
+606,190209,Jeff Ross Roasts the Border (2017),0.4356
+606,366,"Wes Craven's New Nightmare (Nightmare on Elm Street Part 7: Freddy's Finale, A) (1994)",0.4193
+606,33838,Rize (2005),0.4131
+606,60293,"Wackness, The (2008)",0.4008
+606,317,"Santa Clause, The (1994)",0.3992
+607,5673,Punch-Drunk Love (2002),1.5595
+607,4392,Alice (1990),1.5563
+607,120919,Man on High Heels (2014),1.5326
+607,1938,"Lost Weekend, The (1945)",1.4454
+607,122898,Justice League (2017),1.412
+608,3076,Irma la Douce (1963),0.5592
+608,2390,Little Voice (1998),0.5428
+608,3816,"Official Story, The (La historia oficial) (1985)",0.5335
+608,39183,Brokeback Mountain (2005),0.5296
+608,4006,Transformers: The Movie (1986),0.5188
+609,76301,"Emperor's New Groove 2: Kronk's New Groove, The (2005)",1.3708
+609,7753,Tuesdays with Morrie (1999),1.3213
+609,177765,Coco (2017),1.2231
+609,7335,Pickup on South Street (1953),1.1554
+609,79274,Batman: Under the Red Hood (2010),1.0827
+610,6449,From the Terrace (1960),1.2592
+610,71550,Assassination of a High School President (2008),0.3225
+610,38198,Darwin's Nightmare (2004),0.2919
+610,50189,American Pie Presents The Naked Mile (American Pie 5: The Naked Mile) (2006),0.2842
+610,2125,Ever After: A Cinderella Story (1998),0.2794
