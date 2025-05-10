@@ -77,6 +77,6 @@ The script plots the cumulative reward over episodes (weighted clicks) to visual
 
 ## 🧪 Example Output
 
-User 12 → Recommended: The Matrix (1999)
-User 17 → Recommended: Forrest Gump (1994)
+User 12 → Recommended: `The Matrix (1999)`
+User 17 → Recommended: `Forrest Gump (1994)`
 
