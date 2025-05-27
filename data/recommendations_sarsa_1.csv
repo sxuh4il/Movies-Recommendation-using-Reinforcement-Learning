@@ -1,0 +1,191 @@
+userId,movieId,title,recommanded_genres,Q_value
+19,5989,Catch Me If You Can (2002),Crime|Drama,5.2313
+19,1036,Die Hard (1988),Action|Crime|Thriller,5.1895
+19,608,Fargo (1996),Comedy|Crime|Drama|Thriller,5.1417
+19,110,Braveheart (1995),Action|Drama|War,4.9943
+19,7361,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi,4.7689
+28,1,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy,2.3314
+28,364,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX,1.5481
+28,34,Babe (1995),Children|Drama,1.2765
+28,588,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical,1.2066
+28,4886,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy,1.1916
+64,1206,"Clockwork Orange, A (1971)",Crime|Drama|Sci-Fi|Thriller,5.3198
+64,3578,Gladiator (2000),Action|Adventure|Drama,5.1025
+64,5989,Catch Me If You Can (2002),Crime|Drama,4.9431
+64,457,"Fugitive, The (1993)",Thriller,4.8914
+64,648,Mission: Impossible (1996),Action|Adventure|Mystery|Thriller,4.4548
+68,733,"Rock, The (1996)",Action|Adventure|Thriller,1.5224
+68,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller,0.9377
+89,1200,Aliens (1986),Action|Adventure|Horror|Sci-Fi,8.1771
+89,1196,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi,7.4886
+89,150,Apollo 13 (1995),Adventure|Drama|IMAX,7.4797
+89,593,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller,7.0011
+89,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller,6.9825
+91,58559,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX,4.6972
+91,79132,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX,4.4169
+91,4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",Comedy|Romance,4.2134
+91,7361,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi,3.813
+91,2329,American History X (1998),Crime|Drama,3.8067
+105,1,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy,2.5998
+105,590,Dances with Wolves (1990),Adventure|Drama|Western,1.6077
+105,2716,Ghostbusters (a.k.a. Ghost Busters) (1984),Action|Comedy|Sci-Fi,1.5397
+105,367,"Mask, The (1994)",Action|Comedy|Crime|Fantasy,1.5305
+105,380,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller,1.5211
+111,1,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy,3.9164
+111,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy,2.5283
+111,733,"Rock, The (1996)",Action|Adventure|Thriller,2.317
+111,1221,"Godfather: Part II, The (1974)",Crime|Drama,2.2482
+111,380,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller,2.1682
+140,33794,Batman Begins (2005),Action|Crime|IMAX,5.4174
+140,1527,"Fifth Element, The (1997)",Action|Adventure|Comedy|Sci-Fi,5.4148
+140,79132,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX,4.7707
+140,367,"Mask, The (1994)",Action|Comedy|Crime|Fantasy,4.587
+140,586,Home Alone (1990),Children|Comedy,4.3817
+177,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller,5.1774
+177,10,GoldenEye (1995),Action|Adventure|Thriller,4.8732
+177,589,Terminator 2: Judgment Day (1991),Action|Sci-Fi,4.7038
+177,165,Die Hard: With a Vengeance (1995),Action|Crime|Thriller,4.5957
+177,110,Braveheart (1995),Action|Drama|War,4.4191
+182,500,Mrs. Doubtfire (1993),Comedy|Drama,6.5165
+182,587,Ghost (1990),Comedy|Drama|Fantasy|Romance|Thriller,5.7401
+182,367,"Mask, The (1994)",Action|Comedy|Crime|Fantasy,4.573
+182,1721,Titanic (1997),Drama|Romance,4.3785
+182,344,Ace Ventura: Pet Detective (1994),Comedy,4.3105
+217,593,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller,6.0273
+217,4963,Ocean's Eleven (2001),Crime|Thriller,5.2538
+217,588,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical,5.0183
+217,597,Pretty Woman (1990),Comedy|Romance,4.9312
+217,364,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX,4.8587
+219,1206,"Clockwork Orange, A (1971)",Crime|Drama|Sci-Fi|Thriller,5.8484
+219,597,Pretty Woman (1990),Comedy|Romance,4.1281
+219,34,Babe (1995),Children|Drama,3.9664
+219,590,Dances with Wolves (1990),Adventure|Drama|Western,3.7493
+219,79132,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX,3.6192
+232,1200,Aliens (1986),Action|Adventure|Horror|Sci-Fi,5.8587
+232,1968,"Breakfast Club, The (1985)",Comedy|Drama,5.179
+232,1704,Good Will Hunting (1997),Drama|Romance,5.1351
+232,1193,One Flew Over the Cuckoo's Nest (1975),Drama,4.9915
+232,1089,Reservoir Dogs (1992),Crime|Mystery|Thriller,4.8903
+249,1197,"Princess Bride, The (1987)",Action|Adventure|Comedy|Fantasy|Romance,5.2689
+249,10,GoldenEye (1995),Action|Adventure|Thriller,4.16
+249,4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",Comedy|Romance,3.996
+249,34,Babe (1995),Children|Drama,3.6949
+249,1968,"Breakfast Club, The (1985)",Comedy|Drama,3.6935
+274,587,Ghost (1990),Comedy|Drama|Fantasy|Romance|Thriller,5.5507
+274,1097,E.T. the Extra-Terrestrial (1982),Children|Drama|Sci-Fi,4.3927
+274,150,Apollo 13 (1995),Adventure|Drama|IMAX,3.8804
+274,597,Pretty Woman (1990),Comedy|Romance,3.7132
+274,4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",Comedy|Romance,2.9131
+288,1089,Reservoir Dogs (1992),Crime|Mystery|Thriller,6.4246
+288,208,Waterworld (1995),Action|Adventure|Sci-Fi,6.2563
+288,293,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),Action|Crime|Drama|Thriller,5.0846
+288,1221,"Godfather: Part II, The (1974)",Crime|Drama,4.9037
+288,185,"Net, The (1995)",Action|Crime|Thriller,4.5502
+298,733,"Rock, The (1996)",Action|Adventure|Thriller,1.6358
+298,1721,Titanic (1997),Drama|Romance,1.4417
+298,377,Speed (1994),Action|Romance|Thriller,1.4403
+298,587,Ghost (1990),Comedy|Drama|Fantasy|Romance|Thriller,1.4223
+298,648,Mission: Impossible (1996),Action|Adventure|Mystery|Thriller,1.3446
+305,1,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy,2.6071
+305,1265,Groundhog Day (1993),Comedy|Fantasy|Romance,1.5188
+305,208,Waterworld (1995),Action|Adventure|Sci-Fi,1.4145
+305,2683,Austin Powers: The Spy Who Shagged Me (1999),Action|Adventure|Comedy,1.3217
+305,595,Beauty and the Beast (1991),Animation|Children|Fantasy|Musical|Romance|IMAX,1.021
+307,316,Stargate (1994),Action|Adventure|Sci-Fi,5.3269
+307,34,Babe (1995),Children|Drama,4.7909
+307,293,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),Action|Crime|Drama|Thriller,4.2867
+307,380,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller,3.5828
+307,79132,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX,3.3197
+318,1,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy,2.9993
+318,588,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical,1.9222
+318,10,GoldenEye (1995),Action|Adventure|Thriller,1.877
+318,380,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller,1.7942
+318,1200,Aliens (1986),Action|Adventure|Horror|Sci-Fi,1.7703
+380,1206,"Clockwork Orange, A (1971)",Crime|Drama|Sci-Fi|Thriller,5.2851
+380,2329,American History X (1998),Crime|Drama,4.3755
+380,590,Dances with Wolves (1990),Adventure|Drama|Western,3.3189
+380,4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",Comedy|Romance,3.2717
+380,150,Apollo 13 (1995),Adventure|Drama|IMAX,2.9705
+387,185,"Net, The (1995)",Action|Crime|Thriller,3.2576
+387,7361,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi,2.846
+387,79132,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX,2.3249
+387,3793,X-Men (2000),Action|Adventure|Sci-Fi,2.321
+387,733,"Rock, The (1996)",Action|Adventure|Thriller,2.0922
+438,50,"Usual Suspects, The (1995)",Crime|Mystery|Thriller,5.9735
+438,1197,"Princess Bride, The (1987)",Action|Adventure|Comedy|Fantasy|Romance,5.3529
+438,1221,"Godfather: Part II, The (1974)",Crime|Drama,5.2781
+438,296,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,4.8942
+438,1200,Aliens (1986),Action|Adventure|Horror|Sci-Fi,4.4898
+448,2028,Saving Private Ryan (1998),Action|Drama|War,5.5278
+448,4995,"Beautiful Mind, A (2001)",Drama|Romance,5.2092
+448,588,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical,5.1161
+448,34,Babe (1995),Children|Drama,4.7811
+448,527,Schindler's List (1993),Drama|War,4.6675
+474,165,Die Hard: With a Vengeance (1995),Action|Crime|Thriller,4.161
+474,231,Dumb & Dumber (Dumb and Dumber) (1994),Adventure|Comedy,4.0923
+474,1527,"Fifth Element, The (1997)",Action|Adventure|Comedy|Sci-Fi,3.7434
+474,208,Waterworld (1995),Action|Adventure|Sci-Fi,3.706
+474,58559,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX,3.2675
+477,1221,"Godfather: Part II, The (1974)",Crime|Drama,5.9101
+477,3578,Gladiator (2000),Action|Adventure|Drama,5.8763
+477,5989,Catch Me If You Can (2002),Crime|Drama,4.7748
+477,858,"Godfather, The (1972)",Crime|Drama,4.5893
+477,153,Batman Forever (1995),Action|Adventure|Comedy|Crime,4.4658
+480,79132,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX,3.6451
+480,58559,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX,1.5243
+480,5445,Minority Report (2002),Action|Crime|Mystery|Sci-Fi|Thriller,0.1556
+483,1206,"Clockwork Orange, A (1971)",Crime|Drama|Sci-Fi|Thriller,5.5812
+483,593,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller,5.363
+483,185,"Net, The (1995)",Action|Crime|Thriller,4.4282
+483,1213,Goodfellas (1990),Crime|Drama,4.4097
+483,736,Twister (1996),Action|Adventure|Romance|Thriller,3.8109
+489,1,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy,3.1041
+489,1197,"Princess Bride, The (1987)",Action|Adventure|Comedy|Fantasy|Romance,2.2652
+489,4886,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy,1.9103
+489,1221,"Godfather: Part II, The (1974)",Crime|Drama,1.8
+489,1206,"Clockwork Orange, A (1971)",Crime|Drama|Sci-Fi|Thriller,1.6913
+534,590,Dances with Wolves (1990),Adventure|Drama|Western,6.4161
+534,380,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller,4.826
+534,318,"Shawshank Redemption, The (1994)",Crime|Drama,4.6548
+534,50,"Usual Suspects, The (1995)",Crime|Mystery|Thriller,4.6406
+534,733,"Rock, The (1996)",Action|Adventure|Thriller,4.6113
+555,5989,Catch Me If You Can (2002),Crime|Drama,5.3186
+555,4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",Comedy|Romance,4.9532
+555,1193,One Flew Over the Cuckoo's Nest (1975),Drama,4.8915
+555,3578,Gladiator (2000),Action|Adventure|Drama,4.7607
+555,5952,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy,4.6703
+590,316,Stargate (1994),Action|Adventure|Sci-Fi,4.7714
+590,4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",Comedy|Romance,4.3218
+590,1704,Good Will Hunting (1997),Drama|Romance,3.9605
+590,79132,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX,3.8005
+590,1968,"Breakfast Club, The (1985)",Comedy|Drama,3.7751
+599,527,Schindler's List (1993),Drama|War,5.0863
+599,6377,Finding Nemo (2003),Adventure|Animation|Children|Comedy,4.492
+599,590,Dances with Wolves (1990),Adventure|Drama|Western,3.9904
+599,1193,One Flew Over the Cuckoo's Nest (1975),Drama,3.2115
+599,34,Babe (1995),Children|Drama,2.3207
+600,1089,Reservoir Dogs (1992),Crime|Mystery|Thriller,2.5755
+600,2028,Saving Private Ryan (1998),Action|Drama|War,2.0305
+600,8961,"Incredibles, The (2004)",Action|Adventure|Animation|Children|Comedy,2.0097
+600,1968,"Breakfast Club, The (1985)",Comedy|Drama,1.8745
+600,79132,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX,1.8471
+603,586,Home Alone (1990),Children|Comedy,4.4966
+603,318,"Shawshank Redemption, The (1994)",Crime|Drama,4.4674
+603,733,"Rock, The (1996)",Action|Adventure|Thriller,4.2028
+603,4306,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance,4.1787
+603,58559,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX,4.1756
+606,1073,Willy Wonka & the Chocolate Factory (1971),Children|Comedy|Fantasy|Musical,1.9475
+606,208,Waterworld (1995),Action|Adventure|Sci-Fi,1.8126
+606,595,Beauty and the Beast (1991),Animation|Children|Fantasy|Musical|Romance|IMAX,1.7913
+606,586,Home Alone (1990),Children|Comedy,1.7109
+606,457,"Fugitive, The (1993)",Thriller,1.6342
+608,1198,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure,1.5779
+608,1197,"Princess Bride, The (1987)",Action|Adventure|Comedy|Fantasy|Romance,1.5331
+608,33794,Batman Begins (2005),Action|Crime|IMAX,1.4952
+608,79132,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX,1.4565
+608,4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",Comedy|Romance,1.1672
+610,736,Twister (1996),Action|Adventure|Romance|Thriller,5.5825
+610,590,Dances with Wolves (1990),Adventure|Drama|Western,5.0099
+610,150,Apollo 13 (1995),Adventure|Drama|IMAX,4.9165
+610,316,Stargate (1994),Action|Adventure|Sci-Fi,4.6287
+610,586,Home Alone (1990),Children|Comedy,4.4047
